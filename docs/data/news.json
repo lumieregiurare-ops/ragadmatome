@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:00:21.754Z",
+  "updatedAt": "2026-10-25T08:30:15.839Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.famitsu.com/article/202610/91606",
       "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
-      "leadSource": "ファミ通.com",
+      "leadSource": "ファミ通",
       "publishedAt": "2026-10-23T02:40:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -48,6 +48,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "57765bae5d54",
+      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
+      "url": "https://t.co/6yqfwfQ2w8",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:10:47.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "ae7a7f6ef0ec",
@@ -102,11 +119,28 @@
       "isNew": false
     },
     {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-23T07:35:44.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "1bea2df5c291",
       "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
       "url": "https://www.famitsu.com/article/202610/91606",
       "host": "famitsu.com",
-      "source": "ファミ通.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-23T02:40:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
@@ -156,6 +190,23 @@
       ],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "16ce01ed1ecd",
+      "title": "【ラグナロクオンライン/RO】半分寝てる脳で日課やりつつ雑談するだけ【螢火 狐音】",
+      "url": "https://t.co/jBC3GmtieG",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-22T10:54:02.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "1763df856f1f",
@@ -241,6 +292,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ee9ea1256094",
+      "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/502093",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T08:56:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
