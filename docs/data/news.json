@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:00:18.474Z",
+  "updatedAt": "2026-10-25T11:30:17.332Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -40,23 +40,6 @@
       "source": "ゲームドライブ",
       "summary": "",
       "publishedAt": "2026-10-25T05:00:00.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "57765bae5d54",
-      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
-      "url": "https://t.co/6yqfwfQ2w8",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-24T15:10:47.000Z",
       "image": "",
       "scope": "series",
       "categories": [
@@ -188,23 +171,6 @@
       "systems": [
         "auto-battle"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "8b798a4c6c28",
-      "title": "＜画像16 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52055.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-22T11:25:32.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
       "viaGoogle": false,
       "isNew": false
     }
