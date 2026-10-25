@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T02:40:34.410Z",
-  "updateGapMin": 5,
+  "updatedAt": "2026-10-25T03:30:19.258Z",
+  "updateGapMin": 18,
   "topics": [
     {
       "id": "1bea2df5c291",
@@ -44,23 +44,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "ae7a7f6ef0ec",
-      "title": "ラグナロクオンラインでChapter1世界樹の詩序曲拡張アップデートが本日実装",
-      "url": "https://news.dellows.jp/807756/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-24T09:44:23.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/807756_1.jpg",
-      "scope": "series",
-      "categories": [
-        "update"
       ],
       "systems": [],
       "viaGoogle": false,
@@ -116,7 +99,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1bea2df5c291",
@@ -172,7 +155,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a02746d6d33e",
@@ -256,25 +239,6 @@
         "guide"
       ],
       "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "d244eea6e277",
-      "title": "『ラグナロク：アドベンチャーズ』11月4日開始予定！縦画面のオートバトルRPGが登場",
-      "url": "https://gamedrive.jp/news/1792576997",
-      "host": "gamedrive.jp",
-      "source": "ゲームドライブ",
-      "summary": "",
-      "publishedAt": "2026-10-22T03:00:00.000Z",
-      "image": "",
-      "scope": "ragad",
-      "categories": [
-        "news"
-      ],
-      "systems": [
-        "auto-battle"
-      ],
       "viaGoogle": false,
       "isNew": false
     }
