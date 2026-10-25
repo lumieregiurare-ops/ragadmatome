@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T07:00:20.558Z",
+  "updatedAt": "2026-10-25T07:30:16.157Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -67,6 +67,23 @@
       "isNew": false
     },
     {
+      "id": "ae7a7f6ef0ec",
+      "title": "ラグナロクオンラインでChapter1世界樹の詩序曲拡張アップデートが本日実装",
+      "url": "https://news.dellows.jp/807756/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-24T09:44:23.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/807756_1.jpg",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "e3ba3c7826b9",
       "title": "『ラグナロクX』にウンバラ＆忍者が登場！転職条件とBaseLv.120への拡張を確認",
       "url": "https://gamedrive.jp/news/1792827204",
@@ -116,7 +133,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1bea2df5c291",
