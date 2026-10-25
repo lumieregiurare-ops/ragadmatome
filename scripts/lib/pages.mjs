@@ -143,7 +143,6 @@ ${site.googleSiteVerification ? `<meta name="google-site-verification" content="
 <header class="hd">
   <div class="wrap hd-in">
     <a class="logo" href="/"><img src="/assets/logo-mark.png" width="44" height="44" alt=""><span class="logo-t">ラグアド速報<small>Ragnarok: Adventures 情報まとめ</small></span></a>
-    <p class="hd-upd">最終更新 ${time(updatedAt)}${state.updateGapMin ? `<span>（約${state.updateGapMin}分ごと）</span>` : ""}</p>
   </div>
   <nav class="gnav"><ul class="wrap">${nav}</ul></nav>
 </header>
@@ -330,7 +329,7 @@ ${big && o.excerpt ? `<p class="o-x">${esc(o.excerpt.replace(/▼[\s\S]*$/, "").
       : "";
     const body = `
 ${win("公式のお知らせ", latestOfficial.length ? officialItem(latestOfficial[0], true) + `<div class="o-list">${latestOfficial.slice(1).map((o) => officialItem(o)).join("")}</div>` : '<p class="muted">まだありません。</p>', { more: "/official/", icon: "of", cls: "win-official" })}
-${topicHtml ? win("いくつもの媒体が報じた話題", topicHtml, { icon: "tp" }) : ""}
+${topicHtml ? win("話題", topicHtml, { icon: "tp" }) : ""}
 ${win("ラグアドのニュース", ragadRecent.length ? newsList(ragadRecent, { leads: 2, thumbs: 6 }) : '<p class="muted">まだありません。</p>', { more: "/news/", icon: "nw" })}
 ${win("公式動画", `<div class="vg">${videos.slice(0, 6).map((v) => videoCard(v, { play: true })).join("")}</div>`, { more: "/videos/", icon: "yt" })}
 ${win("ゲームシステム", sysGrid(6), { more: "/system/", icon: "sy" })}
