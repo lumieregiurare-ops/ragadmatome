@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T05:30:15.861Z",
+  "updatedAt": "2026-10-25T06:00:19.540Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -32,6 +32,23 @@
     }
   ],
   "items": [
+    {
+      "id": "231a9113440a",
+      "title": "『ラグナロクオンライン』新パック2種が登場！各5,000円の内容と利用条件を確認",
+      "url": "https://gamedrive.jp/news/1792894027",
+      "host": "gamedrive.jp",
+      "source": "ゲームドライブ",
+      "summary": "",
+      "publishedAt": "2026-10-25T05:00:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "57765bae5d54",
       "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
@@ -158,6 +175,23 @@
       "isNew": false
     },
     {
+      "id": "1763df856f1f",
+      "title": "【ラグナロクX】アルケミスト/クリエイターの特徴やスキル【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/475491",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T09:00:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/475491.png?date=1732611367",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "d0fd7ca5b37d",
       "title": "【ラグナロクX】アコライトの特徴やスキル【ROX】",
       "url": "https://gamewith.jp/ragnarokx/473753",
@@ -172,7 +206,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a02746d6d33e",
@@ -206,7 +240,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fea85d02fb1a",
@@ -223,7 +257,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "346f9d13b5d6",
@@ -257,7 +291,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2dcb3c227032",
