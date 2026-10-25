@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:30:18.005Z",
+  "updatedAt": "2026-10-25T07:00:20.558Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -67,23 +67,6 @@
       "isNew": false
     },
     {
-      "id": "ae7a7f6ef0ec",
-      "title": "ラグナロクオンラインでChapter1世界樹の詩序曲拡張アップデートが本日実装",
-      "url": "https://news.dellows.jp/807756/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-24T09:44:23.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/807756_1.jpg",
-      "scope": "series",
-      "categories": [
-        "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "e3ba3c7826b9",
       "title": "『ラグナロクX』にウンバラ＆忍者が登場！転職条件とBaseLv.120への拡張を確認",
       "url": "https://gamedrive.jp/news/1792827204",
@@ -117,6 +100,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-23T07:35:44.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "1bea2df5c291",
@@ -291,7 +291,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "346f9d13b5d6",
@@ -302,40 +302,6 @@
       "summary": "",
       "publishedAt": "2026-10-22T07:31:56.000Z",
       "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "2dcb3c227032",
-      "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！｜Infoseekニュース",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000002187_000025063/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-22T06:45:25.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a494a97f2bac",
-      "title": "ラグナロクオンラインで新パック2商品を2026年10月22日15時から販売へ",
-      "url": "https://news.dellows.jp/850750/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-22T06:41:12.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/850750_1.jpg",
       "scope": "series",
       "categories": [
         "news"
