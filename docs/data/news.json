@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:30:18.037Z",
+  "updatedAt": "2026-10-25T16:00:16.815Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -67,6 +67,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "57765bae5d54",
+      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
+      "url": "https://t.co/6yqfwfQ2w8",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:10:47.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "ae7a7f6ef0ec",
@@ -153,23 +170,6 @@
       "systems": [
         "auto-battle"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "fe8cae9575c9",
-      "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002187.000025063.html",
-      "host": "prtimes.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-22T15:30:20.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2187/25063-2187-40256224d0e2fff8c0bfe181e47439e7-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
       "viaGoogle": false,
       "isNew": false
     }
