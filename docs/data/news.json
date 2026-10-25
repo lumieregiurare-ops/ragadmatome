@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:00:17.882Z",
+  "updatedAt": "2026-10-25T23:30:17.849Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -26,7 +26,7 @@
           "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
           "url": "https://www.famitsu.com/article/202610/91606",
           "source": "ファミ通",
-          "publishedAt": "2026-10-23T01:10:00.000Z",
+          "publishedAt": "2026-10-23T02:40:00.000Z",
           "isPR": false
         }
       ]
@@ -86,23 +86,6 @@
       "isNew": false
     },
     {
-      "id": "ae7a7f6ef0ec",
-      "title": "ラグナロクオンラインでChapter1世界樹の詩序曲拡張アップデートが本日実装",
-      "url": "https://news.dellows.jp/807756/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-24T09:44:23.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/807756_1.jpg",
-      "scope": "series",
-      "categories": [
-        "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "e3ba3c7826b9",
       "title": "『ラグナロクX』にウンバラ＆忍者が登場！転職条件とBaseLv.120への拡張を確認",
       "url": "https://gamedrive.jp/news/1792827204",
@@ -152,7 +135,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1bea2df5c291",
@@ -161,7 +144,7 @@
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
-      "publishedAt": "2026-10-23T01:10:00.000Z",
+      "publishedAt": "2026-10-23T02:40:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
       "scope": "ragad",
       "categories": [
