@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T04:00:17.098Z",
-  "updateGapMin": 18,
+  "updatedAt": "2026-10-25T04:30:17.830Z",
+  "updateGapMin": 30,
   "topics": [
     {
       "id": "1bea2df5c291",
@@ -220,23 +220,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a584fead0036",
-      "title": "【ラグナロクX】エンチャントの場所ごとの効果と一覧【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/470397",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-22T04:22:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/470397.png?date=1744776185",
-      "scope": "series",
-      "categories": [
-        "guide"
       ],
       "systems": [],
       "viaGoogle": false,
