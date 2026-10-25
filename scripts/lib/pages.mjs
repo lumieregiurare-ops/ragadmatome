@@ -325,7 +325,7 @@ ${big && o.excerpt ? `<p class="o-x">${esc(o.excerpt.replace(/▼[\s\S]*$/, "").
               .map((a) => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a>`)
               .join("、")}　${time(t.publishedAt)}</p></li>`
           )
-          .join("")}</ol><p class="note">[ ] の数字は、同じ話題を報じた媒体の数です。</p>`
+          .join("")}</ol>`
       : "";
     const body = `
 ${win("公式のお知らせ", latestOfficial.length ? officialItem(latestOfficial[0], true) + `<div class="o-list">${latestOfficial.slice(1).map((o) => officialItem(o)).join("")}</div>` : '<p class="muted">まだありません。</p>', { more: "/official/", icon: "of", cls: "win-official" })}
