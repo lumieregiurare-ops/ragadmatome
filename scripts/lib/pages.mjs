@@ -169,7 +169,7 @@ ${scripts.map((s) => `<script src="${s}" defer></script>`).join("\n")}
   // RO のウィンドウ風の枠
   function win(title, body, { id = "", more = "", cls = "", h = "h2", icon = "" } = {}) {
     return `<section class="win ${cls}"${id ? ` id="${id}"` : ""}>
-<${h} class="win-t">${icon ? `<i class="ic ic-${icon}"></i>` : ""}<span>${title}</span>${more ? `<a class="win-more" href="${more}">一覧</a>` : ""}<b class="win-x" aria-hidden="true">×</b></${h}>
+<${h} class="win-t">${icon ? `<i class="ic ic-${icon}"></i>` : ""}<span>${title}</span>${more ? `<a class="win-more" href="${more}">一覧</a>` : ""}</${h}>
 <div class="win-b">${body}</div>
 </section>`;
   }
@@ -294,7 +294,7 @@ ${big && o.excerpt ? `<p class="o-x">${esc(o.excerpt.replace(/▼[\s\S]*$/, "").
 
   function commentsHtml(id, title) {
     return `<section class="win comments" id="comments" data-work="${esc(id)}" data-title="${esc(title)}">
-<h2 class="win-t"><i class="ic ic-ch"></i><span>チャット<span class="c-count" id="cCount"></span></span><b class="win-x" aria-hidden="true">×</b></h2>
+<h2 class="win-t"><i class="ic ic-ch"></i><span>チャット<span class="c-count" id="cCount"></span></span></h2>
 <div class="win-b">
 <p class="c-rule">URL は書き込めません。悪口・晒し・リアルマネートレードの話は削除します。</p>
 <div class="c-list" id="cList"><p class="c-empty">読み込み中…</p></div>

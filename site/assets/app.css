@@ -75,7 +75,6 @@ img { max-width: 100%; }
 .win-t > span { flex: 1; min-width: 0; }
 h1.win-t { font-size: 15px; }
 .win-more { font-size: 12px; font-weight: 400; padding: 0 8px; border: 1px solid var(--frame); border-radius: 2px; background: #fff; color: var(--title) !important; }
-.win-x { width: 15px; height: 15px; line-height: 13px; text-align: center; font-size: 11px; font-weight: 400; color: #7a86a6; border: 1px solid #9ea9c6; border-radius: 2px; background: #eef2f9; }
 .win-b { padding: 10px 12px 12px; }
 .ic { width: 12px; height: 12px; border: 1px solid rgba(0,0,0,.35); border-radius: 2px; flex: none; background: #7f93c4; }
 .ic-of { background: #24365f; } .ic-nw { background: #e2702e; } .ic-yt { background: #d33; } .ic-sy { background: #3a9a5b; }
