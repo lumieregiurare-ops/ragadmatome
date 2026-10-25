@@ -1,0 +1,117 @@
+{
+  "port": 3295,
+  "host": "127.0.0.1",
+  "watchdogMinutes": 15,
+  "maxArticleAgeDays": 14,
+
+  "site": {
+    "title": "ラグアド速報",
+    "tagline": "ラグナロク：アドベンチャーズ（ラグアド）の公式のお知らせ・動画・ゲーム媒体の記事・アプリの更新を30分おきに集めています。",
+    "url": "https://ragadmatome.gamelab.website/",
+    "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
+    "launchAt": "2026-11-04T00:00:00+09:00"
+  },
+
+  "note1": "sisterSites はフッターの「運営サイト」に並べるリンク。",
+  "sisterSites": [
+    { "name": "GameLab Radar", "url": "https://gamelab.website/" },
+    { "name": "アニメ速報", "url": "https://animematome.gamelab.website/" },
+    { "name": "ポケモン速報", "url": "https://pokematome.gamelab.website/" },
+    { "name": "モンハン速報", "url": "https://mhmatome.gamelab.website/" },
+    { "name": "AI matomechatter", "url": "https://aimatome.gamelab.website/" },
+    { "name": "ちいかわ速報", "url": "https://chiikawamatome.gamelab.website/" },
+    { "name": "なろう系まとめ", "url": "https://naroumatome.gamelab.website/" },
+    { "name": "急上昇動画ウォッチャー", "url": "https://trend.gamelab.website/" }
+  ],
+
+  "note2": "official は公式サイトのお知らせ（公式サイトのトップが読んでいる JSON）。新しい記事だけ本文の冒頭を取りに行く。",
+  "official": {
+    "base": "https://ragnarokadv.gungho.jp",
+    "articles": "https://ragnarokadv.gungho.jp/articles?items_per_page=10"
+  },
+
+  "note3": "youtube は公式チャンネルの RSS。RSS には最新 15 本しか無いので data/videos.json に貯めていく。",
+  "youtube": {
+    "channelId": "UCScSnvrJvSGsih5aKl5PKoQ",
+    "handle": "RagnarokAdv_jp"
+  },
+
+  "note4": "store は App Store の lookup API。バージョンが変わるたびに data/store.json の history に足す（Google Play は公開の API が無いのでリンクだけ）。",
+  "store": {
+    "appStoreId": "6765637031",
+    "appStoreUrl": "https://apps.apple.com/jp/app/id6765637031",
+    "googlePlayUrl": "https://play.google.com/store/apps/details?id=jp.gungho.roia"
+  },
+
+  "googleNews": {
+    "enabled": true,
+    "within": "3d",
+    "perQuery": 40,
+    "queries": ["ラグナロク アドベンチャーズ", "ラグナロク：アドベンチャーズ", "ラグアド", "ラグナロクオンライン", "ラグナロク ガンホー", "ラグナロクマスターズ", "ラグナロク オリジン"]
+  },
+
+  "feeds": [],
+
+  "note5": "ragad に当たれば「ラグアド」の記事、series にだけ当たれば「ラグナロクシリーズ」の記事として載せる。どちらにも当たらない記事は捨てる。",
+  "keywords": {
+    "ragad": ["ラグナロク[：:・ ]?アドベンチャーズ", "ラグアド", "Ragnarok[: ]*Adventures?", "Ragnarok Idle Adventure"],
+    "series": ["ラグナロク", "Ragnarok", "ポリン", "ROラグ", "ラグマス", "ラグオリ"]
+  },
+  "blockTitlePatterns": ["^画像ギャラリー", "RTA", "ラグナロク[^ア]{0,6}(神話|北欧神話)", "マイティ・ソー", "ソー：?ラブ", "バトルロイヤル.*ラグナロク", "フォートナイト", "ゴッド・オブ・ウォー", "God of War", "終末のワルキューレ", "株価", "決算短信"],
+
+  "note6": "categories は見出しで付ける札。上から順に見て、当たったものを最大 2 つ付ける。",
+  "categories": [
+    { "id": "official", "label": "公式", "keywords": [] },
+    { "id": "release", "label": "配信日", "keywords": ["配信日", "サービス開始", "リリース日", "正式サービス", "配信開始", "配信が決定", "配信決定"] },
+    { "id": "campaign", "label": "キャンペーン", "keywords": ["キャンペーン", "プレゼント", "事前登録", "特典", "ギフト", "記念"] },
+    { "id": "guide", "label": "攻略", "keywords": ["攻略", "リセマラ", "最強", "おすすめ", "職業", "転職", "レビュー", "やってみた", "試遊", "プレイレポ"] },
+    { "id": "update", "label": "アップデート", "keywords": ["アップデート", "メンテナンス", "不具合", "実装", "新ダンジョン", "上限解放"] },
+    { "id": "event", "label": "イベント", "keywords": ["イベント", "コラボ", "ハロウィン", "クリスマス", "オフライン", "生放送", "開催"] }
+  ],
+  "fallbackCategory": { "id": "news", "label": "ニュース" },
+  "blockSources": ["YouTube", "ニコニコ動画"],
+  "guideHosts": ["gamewith.jp", "appmedia.jp", "game8.jp", "gamepedia.jp", "altema.jp", "kamigame.jp", "sumahoch.com"],
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 72,
+    "minSources": 2,
+    "threshold": 0.3,
+    "maxTopics": 8,
+    "stopwords": ["ラグナロク", "アドベンチャーズ", "ラグアド", "ガンホー", "オンライン", "ラグナロクオンライン", "RPG", "rpg", "スマホ", "アプリ", "ゲーム", "新作", "情報", "公開", "決定", "開始", "日本", "国内", "記事", "画像", "ギャラリー", "最新", "本日", "com", "www", "https", "gungho", "ragnarok"]
+  },
+  "entities": ["正式サービス", "事前登録", "PV", "ポリン"],
+
+  "note7": "systems は「ゲームシステム」のページ。keywords が公式動画のタイトルやニュースの見出しに当たると、そのシステムのページに並ぶ。desc は公式サイト・ストアの説明を要約したもの（推測で書き足さない）。",
+  "systems": [
+    { "id": "auto-battle", "name": "オートバトル・放置", "keywords": ["オートバトル", "放置", "自動"], "desc": "縦画面・片手操作で、戦闘は自動で進む。ゲームを開いていない間もキャラクターがアイテムを集め、次のログインでまとめて受け取れる。" },
+    { "id": "job", "name": "職業・転職", "keywords": ["職業", "転職", "スキル", "ノービス", "ジョブ"], "desc": "主人公はノービスから始まり、さまざまな職業に転職して強くなる。職業ごとのスキルや特徴を組み合わせてビルドを作る。" },
+    { "id": "party", "name": "冒険の仲間", "keywords": ["冒険の仲間", "仲間NPC", "ブレイド", "スヴァナ", "ユール", "ハーディン", "アイ(?![ア-ン])"], "desc": "ソードマン・マジシャン・アーチャー・シーフ・アコライトの5人の仲間 NPC がいる。役割とスキルを組み合わせてチームを編成し、一緒に育てる。" },
+    { "id": "costume", "name": "衣装", "keywords": ["衣装", "コーディネート", "ヘア", "衣装部屋", "サングラス"], "desc": "衣装でキャラクターの見た目を変えられる。衣装は素材を集めて制作する（事前登録特典にも衣装のレシピと素材がある）。" },
+    { "id": "dungeon", "name": "ダンジョン・ボス", "keywords": ["ダンジョン", "ボス", "ポリン島"], "desc": "強いボスが出るダンジョンに挑む。公式動画ではダンジョン「ポリン島」が紹介されている。" },
+    { "id": "tower", "name": "試練の塔", "keywords": ["試練の塔"], "desc": "仲間と力を合わせて上の階を目指すコンテンツ。" },
+    { "id": "devilchi", "name": "デビルチ団", "keywords": ["デビルチ"], "desc": "デビルチたちが主人公に代わってモンスターを討伐する。毎日挑戦して報酬を受け取る。" },
+    { "id": "guild", "name": "ギルド・ギルドレイド", "keywords": ["ギルド"], "desc": "ギルドに加入すると「ギルドレイド」に挑める。メンバーで協力してダメージを与え、報酬を受け取る。" },
+    { "id": "arena", "name": "アリーナ", "keywords": ["アリーナ", "対人", "PvP"], "desc": "ほかのプレイヤーと競うコンテンツ。" },
+    { "id": "town", "name": "マイタウン", "keywords": ["マイタウン", "街づくり", "街作り"], "desc": "自分の街を発展させる。" },
+    { "id": "fishing", "name": "釣り", "keywords": ["釣り"], "desc": "冒険の合間に釣り場で釣りができる。" },
+    { "id": "pet", "name": "ペット", "keywords": ["ペット"], "desc": "ペットを集めて育て、一緒に冒険する。ペットの召喚には「星の鍵」やゴールドを使う。" },
+    { "id": "equip", "name": "装備・精錬", "keywords": ["装備", "精錬", "合成"], "desc": "装備の合成と、装備の部位ごとの精錬がある。" },
+    { "id": "card", "name": "カード", "keywords": ["カード"], "desc": "カードを集めて使う。カードの召喚には「月の鍵」やゴールドを使う。" },
+    { "id": "wish", "name": "願いの空間", "keywords": ["願いの空間", "サプライズボックス", "加速水晶"], "desc": "サプライズボックスを置いておくと、時間がたったあとに SR ランクのアイテムがランダムで1つ手に入る。加速水晶で待ち時間を縮められる。" }
+  ],
+
+  "note8": "links は「リンク集」のページ。攻略サイトは見つけたら足す。",
+  "links": [
+    { "group": "公式", "name": "公式サイト", "url": "https://ragnarokadv.gungho.jp/" },
+    { "group": "公式", "name": "事前登録特設ページ", "url": "https://ragnarokadv.gungho.jp/pre/" },
+    { "group": "公式", "name": "公式X（@RagnarokAdv_jp）", "url": "https://x.com/RagnarokAdv_jp" },
+    { "group": "公式", "name": "公式YouTube", "url": "https://www.youtube.com/@RagnarokAdv_jp" },
+    { "group": "ストア", "name": "App Store", "url": "https://apps.apple.com/jp/app/id6765637031" },
+    { "group": "ストア", "name": "Google Play", "url": "https://play.google.com/store/apps/details?id=jp.gungho.roia" },
+    { "group": "攻略・データ", "name": "GameWith", "url": "https://gamewith.jp/gamedb/18047/articles/61864" },
+    { "group": "攻略・データ", "name": "攻略大百科", "url": "https://gamepedia.jp/apps/114289" },
+    { "group": "攻略・データ", "name": "4Gamer.net（タイトル情報）", "url": "https://www.4gamer.net/games/033/G103302/" },
+    { "group": "ラグナロクシリーズ", "name": "ラグナロクオンライン 公式", "url": "https://ragnarokonline.gungho.jp/" }
+  ]
+}
