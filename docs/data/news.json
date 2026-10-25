@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:00:19.540Z",
+  "updatedAt": "2026-10-25T06:30:18.005Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -47,7 +47,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "57765bae5d54",
@@ -138,6 +138,23 @@
       "isNew": false
     },
     {
+      "id": "fe8cae9575c9",
+      "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002187.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-22T15:30:20.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2187/25063-2187-40256224d0e2fff8c0bfe181e47439e7-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "6dc459eec41b",
       "title": "新作オートバトルRPG『ラグナロク：アドベンチャーズ』サービス開始日が11/4に決定。アマギフ5,000円分が当たるキャンペーン実施中",
       "url": "https://dengekionline.com/article/202610/91751",
@@ -189,7 +206,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0fd7ca5b37d",
@@ -260,6 +277,23 @@
       "isNew": false
     },
     {
+      "id": "ee9ea1256094",
+      "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/502093",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T08:56:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "346f9d13b5d6",
       "title": "誰でも参加可能、「ラグナロクオンライン プラス」テスト開始",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -277,30 +311,13 @@
       "isNew": false
     },
     {
-      "id": "a494a97f2bac",
-      "title": "ラグナロクオンラインで新パック2商品を2026年10月22日15時から販売へ",
-      "url": "https://news.dellows.jp/850750/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-22T06:41:12.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/850750_1.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "2dcb3c227032",
       "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！｜Infoseekニュース",
       "url": "https://news.infoseek.co.jp/article/prtimes_000002187_000025063/",
       "host": "news.infoseek.co.jp",
       "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-22T06:06:40.000Z",
+      "publishedAt": "2026-10-22T06:45:25.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "scope": "series",
       "categories": [
@@ -311,14 +328,14 @@
       "isNew": false
     },
     {
-      "id": "fe8cae9575c9",
-      "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002187.000025063.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "id": "a494a97f2bac",
+      "title": "ラグナロクオンラインで新パック2商品を2026年10月22日15時から販売へ",
+      "url": "https://news.dellows.jp/850750/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
       "summary": "",
-      "publishedAt": "2026-10-22T06:06:40.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2187/25063-2187-40256224d0e2fff8c0bfe181e47439e7-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-10-22T06:41:12.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/850750_1.jpg",
       "scope": "series",
       "categories": [
         "news"

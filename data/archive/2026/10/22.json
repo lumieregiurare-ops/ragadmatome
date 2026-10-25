@@ -108,6 +108,21 @@
   "systems": []
  },
  {
+  "id": "ee9ea1256094",
+  "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
+  "url": "https://gamewith.jp/ragnarokx/502093",
+  "host": "gamewith.jp",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-22T08:56:30.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
+  "scope": "series",
+  "categories": [
+   "guide"
+  ],
+  "systems": []
+ },
+ {
   "id": "346f9d13b5d6",
   "title": "誰でも参加可能、「ラグナロクオンライン プラス」テスト開始",
   "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -123,6 +138,21 @@
   "systems": []
  },
  {
+  "id": "2dcb3c227032",
+  "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！｜Infoseekニュース",
+  "url": "https://news.infoseek.co.jp/article/prtimes_000002187_000025063/",
+  "host": "news.infoseek.co.jp",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-22T06:45:25.000Z",
+  "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+  "scope": "series",
+  "categories": [
+   "news"
+  ],
+  "systems": []
+ },
+ {
   "id": "a494a97f2bac",
   "title": "ラグナロクオンラインで新パック2商品を2026年10月22日15時から販売へ",
   "url": "https://news.dellows.jp/850750/?from",
@@ -131,21 +161,6 @@
   "summary": "",
   "publishedAt": "2026-10-22T06:41:12.000Z",
   "image": "https://news.dellows.jp/wp-content/uploads/2026/10/850750_1.jpg",
-  "scope": "series",
-  "categories": [
-   "news"
-  ],
-  "systems": []
- },
- {
-  "id": "2dcb3c227032",
-  "title": "【ラグナロクオンライン】「4次職・拡張4次職スターターパックII」販売開始！｜Infoseekニュース",
-  "url": "https://news.infoseek.co.jp/article/prtimes_000002187_000025063/",
-  "host": "news.infoseek.co.jp",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-22T06:06:40.000Z",
-  "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
   "scope": "series",
   "categories": [
    "news"
