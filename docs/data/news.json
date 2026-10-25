@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-10-25T11:30:17.332Z",
+  "updatedAt": "2026-10-25T12:00:17.233Z",
   "updateGapMin": 30,
-  "topics": [
-    {
-      "id": "1bea2df5c291",
-      "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/202610/91606",
-      "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
-      "leadSource": "ファミ通.com",
-      "publishedAt": "2026-10-23T02:40:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "release",
-        "campaign"
-      ],
-      "keywords": [
-        "サービス",
-        "オートバトル"
-      ],
-      "articles": [
-        {
-          "title": "新作オートバトルRPG『ラグナロク：アドベンチャーズ』サービス開始日が11/4に決定。アマギフ5,000円分が当たるキャンペーン実施中",
-          "url": "https://dengekionline.com/article/202610/91751",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-22T12:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    }
-  ],
+  "topics": [],
   "items": [
     {
       "id": "231a9113440a",
@@ -50,6 +21,23 @@
       "isNew": false
     },
     {
+      "id": "57765bae5d54",
+      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
+      "url": "https://t.co/6yqfwfQ2w8",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:10:47.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "ae7a7f6ef0ec",
       "title": "ラグナロクオンラインでChapter1世界樹の詩序曲拡張アップデートが本日実装",
       "url": "https://news.dellows.jp/807756/",
@@ -65,6 +53,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "f7f64d96cc35",
+      "title": "＜画像17 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52056.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-24T09:27:06.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "e3ba3c7826b9",
@@ -96,23 +101,6 @@
       "categories": [
         "guide",
         "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ad8f0aba5b78",
-      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52054.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-23T07:35:44.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
@@ -151,26 +139,6 @@
         "news"
       ],
       "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "6dc459eec41b",
-      "title": "新作オートバトルRPG『ラグナロク：アドベンチャーズ』サービス開始日が11/4に決定。アマギフ5,000円分が当たるキャンペーン実施中",
-      "url": "https://dengekionline.com/article/202610/91751",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91751/ogp_DjUN.jpg?x=1280",
-      "scope": "ragad",
-      "categories": [
-        "release",
-        "campaign"
-      ],
-      "systems": [
-        "auto-battle"
-      ],
       "viaGoogle": false,
       "isNew": false
     }
