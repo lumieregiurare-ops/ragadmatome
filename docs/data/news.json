@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:00:20.175Z",
+  "updatedAt": "2026-10-26T08:30:20.321Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -37,6 +37,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "57765bae5d54",
+      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
+      "url": "https://t.co/6yqfwfQ2w8",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:10:47.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "e3ba3c7826b9",
