@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:00:18.832Z",
+  "updatedAt": "2026-10-26T05:30:18.693Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -54,6 +54,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ae7a7f6ef0ec",
+      "title": "ラグナロクオンラインでChapter1世界樹の詩序曲拡張アップデートが本日実装",
+      "url": "https://news.dellows.jp/807756/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-24T09:44:23.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/807756_1.jpg",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "e3ba3c7826b9",
