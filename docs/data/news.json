@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:30:20.321Z",
+  "updatedAt": "2026-10-26T09:00:18.012Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -53,7 +53,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e3ba3c7826b9",
@@ -67,24 +67,6 @@
       "scope": "series",
       "categories": [
         "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "88331e7987ab",
-      "title": "【ラグナロクX】ウンバラアップデートの最新情報まとめ【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/577161",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-23T08:41:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577161.png?date=1789540281",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "update"
       ],
       "systems": [],
       "viaGoogle": false,
