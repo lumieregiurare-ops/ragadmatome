@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-10-27T21:30:17.376Z",
+  "updatedAt": "2026-10-27T22:00:18.661Z",
   "updateGapMin": 30,
-  "topics": [],
+  "topics": [
+    {
+      "id": "1bea2df5c291",
+      "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/202610/91606",
+      "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-10-25T22:10:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "keywords": [
+        "正式サービス",
+        "サービス",
+        "正式"
+      ],
+      "articles": [
+        {
+          "title": "『ラグナロク：アドベンチャーズ』が11月4日に日本国内で正式サービス開始！ 事前登録特典3も追加",
+          "url": "https://www.appbank.net/2026/10/25/game/3139936.php",
+          "source": "AppBank",
+          "publishedAt": "2026-10-25T13:00:33.000Z",
+          "isPR": false
+        }
+      ]
+    }
+  ],
   "items": [
     {
       "id": "d7a9d05e2720",
@@ -88,6 +118,25 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "1bea2df5c291",
+      "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
+      "url": "https://www.famitsu.com/article/202610/91606",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-25T22:10:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
+      "scope": "ragad",
+      "categories": [
+        "release"
+      ],
+      "systems": [
+        "auto-battle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "62efab0cb89a",
