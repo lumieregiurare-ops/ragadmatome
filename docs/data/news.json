@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T11:30:16.838Z",
+  "updatedAt": "2026-10-27T12:00:21.687Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -73,6 +73,23 @@
       "isNew": false
     },
     {
+      "id": "3dd13a988ac2",
+      "title": "📛ROのキャラクターの名前変更と性別変更を実装！｜🌾復刻コスたま2026 Season4パック｜RO NEWS的ステーション 2026.10.27【ラグナロクオンライン】",
+      "url": "https://t.co/gLJW53fHnI",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-26T19:47:32.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "62efab0cb89a",
       "title": "『ラグナロク：アドベンチャーズ』が11月4日に日本国内で正式サービス開始！ 事前登録特典3も追加",
       "url": "https://www.appbank.net/2026/10/25/game/3139936.php",
@@ -106,6 +123,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "57765bae5d54",
+      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
+      "url": "https://t.co/6yqfwfQ2w8",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:10:47.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
