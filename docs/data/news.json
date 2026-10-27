@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-10-27T02:00:17.131Z",
+  "updatedAt": "2026-10-27T02:30:15.872Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "a80afbb44534",
+      "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-27T02:08:28.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "62efab0cb89a",
       "title": "『ラグナロク：アドベンチャーズ』が11月4日に日本国内で正式サービス開始！ 事前登録特典3も追加",
@@ -53,7 +70,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e3ba3c7826b9",
