@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-10-27T08:30:21.408Z",
+  "updatedAt": "2026-10-27T09:00:18.832Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "d7a9d05e2720",
+      "title": "『ラグナロクオンライン』でキャラクターの名前変更・性別変更が実装！ 10月27日から「復刻コスたま2026 Season4」も開催",
+      "url": "https://www.appbank.net/2026/10/27/game/3145047.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:47:49.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261027_123126_776_01.webp",
+      "scope": "series",
+      "categories": [
+        "update",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "0042ddca784a",
       "title": "「ラグナロクオンライン」キャラクターの名前変更と性別変更が実装！過去に販売されたコスたまの復刻も",
@@ -88,23 +106,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "57765bae5d54",
-      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
-      "url": "https://t.co/6yqfwfQ2w8",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-24T15:10:47.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     }
   ]
 }
