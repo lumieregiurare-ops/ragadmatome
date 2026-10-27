@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-10-27T06:00:18.531Z",
+  "updatedAt": "2026-10-27T06:30:20.824Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "0042ddca784a",
+      "title": "「ラグナロクオンライン」キャラクターの名前変更と性別変更が実装！過去に販売されたコスたまの復刻も",
+      "url": "https://www.gamer.ne.jp/news/202610270018/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-27T05:57:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "a80afbb44534",
       "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
@@ -19,6 +36,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "2c5dd7a8d71b",
+      "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！ (2026年10月27日掲載)",
+      "url": "https://news.livedoor.com/pr_topics/detail/32667810/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-27T02:06:36.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/8/b/8bf02_1863_3241363e_5682884d.png",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "62efab0cb89a",
@@ -54,23 +88,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "57765bae5d54",
-      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
-      "url": "https://t.co/6yqfwfQ2w8",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-24T15:10:47.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "e3ba3c7826b9",
