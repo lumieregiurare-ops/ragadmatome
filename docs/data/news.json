@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:00:19.976Z",
+  "updatedAt": "2026-10-27T08:30:21.408Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -27,7 +27,7 @@
       "host": "prtimes.jp",
       "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-10-27T02:08:28.000Z",
+      "publishedAt": "2026-10-27T02:12:19.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
@@ -90,21 +90,21 @@
       "isNew": false
     },
     {
-      "id": "e3ba3c7826b9",
-      "title": "『ラグナロクX』にウンバラ＆忍者が登場！転職条件とBaseLv.120への拡張を確認",
-      "url": "https://gamedrive.jp/news/1792827204",
-      "host": "gamedrive.jp",
-      "source": "ゲームドライブ",
+      "id": "57765bae5d54",
+      "title": "【RO】１１７日目！ 毎週土曜日恒例の雑談ＲＯ！ 今日ものんびり雑談枠です！ バ美肉Vtuber #空歌ルルー のまったりゲーム配信 ラグナロクオンライン 平地でのんびりプレイ【復帰勢】",
+      "url": "https://t.co/6yqfwfQ2w8",
+      "host": "t.co",
+      "source": "Howl.Link",
       "summary": "",
-      "publishedAt": "2026-10-24T08:16:00.000Z",
+      "publishedAt": "2026-10-24T15:10:47.000Z",
       "image": "",
       "scope": "series",
       "categories": [
-        "guide"
+        "news"
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     }
   ]
 }
