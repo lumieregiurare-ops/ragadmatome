@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T03:30:23.353Z",
+  "updatedAt": "2026-10-28T04:00:19.386Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "97894cf0b145",
-      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
+      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】 1枚目の写真・画像",
       "summary": "",
       "url": "https://news.infoseek.co.jp/article/inside_189957/",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
-      "leadSource": "Infoseek",
+      "leadSource": "インサイド",
       "publishedAt": "2026-10-28T03:00:03.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -42,10 +42,10 @@
   "items": [
     {
       "id": "97894cf0b145",
-      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
+      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】 1枚目の写真・画像",
       "url": "https://news.infoseek.co.jp/article/inside_189957/",
       "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-28T03:00:03.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
@@ -58,7 +58,7 @@
         "job"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "afaa1ea91782",
@@ -77,7 +77,7 @@
         "auto-battle"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d7a9d05e2720",
