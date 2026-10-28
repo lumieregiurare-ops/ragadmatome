@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:00:35.715Z",
+  "updatedAt": "2026-10-28T22:30:20.121Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -11,15 +11,13 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-28T03:00:03.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
-        "guide",
-        "release"
+        "guide"
       ],
       "keywords": [
-        "オートバトル",
         "放置",
-        "手軽"
+        "先行"
       ],
       "articles": [
         {
@@ -27,13 +25,6 @@
           "url": "https://www.famitsu.com/article/202610/92176",
           "source": "ファミ通",
           "publishedAt": "2026-10-28T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
-          "url": "https://www.famitsu.com/article/202610/91606",
-          "source": "ファミ通",
-          "publishedAt": "2026-10-25T22:10:00.000Z",
           "isPR": false
         }
       ]
@@ -139,9 +130,9 @@
       "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
       "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
       "host": "prtimes.jp",
-      "source": "Mantan Web",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-10-27T05:14:57.000Z",
+      "publishedAt": "2026-10-27T02:12:19.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
@@ -182,42 +173,6 @@
         "update"
       ],
       "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:57:23.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "1bea2df5c291",
-      "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
-      "url": "https://www.famitsu.com/article/202610/91606",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-25T22:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
-      "scope": "ragad",
-      "categories": [
-        "release"
-      ],
-      "systems": [
-        "auto-battle"
-      ],
       "viaGoogle": false,
       "isNew": false
     }
