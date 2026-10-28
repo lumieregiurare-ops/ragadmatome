@@ -1,27 +1,34 @@
 {
-  "updatedAt": "2026-10-28T03:00:19.472Z",
+  "updatedAt": "2026-10-28T03:30:23.353Z",
   "updateGapMin": 30,
   "topics": [
     {
-      "id": "1bea2df5c291",
-      "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
+      "id": "97894cf0b145",
+      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
       "summary": "",
-      "url": "https://www.famitsu.com/article/202610/91606",
-      "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-10-25T22:10:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
+      "url": "https://news.infoseek.co.jp/article/inside_189957/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-28T03:00:03.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "release",
-        "campaign"
+        "guide",
+        "release"
       ],
       "keywords": [
         "正式サービス",
-        "サービス",
-        "正式"
+        "オートバトル",
+        "手軽"
       ],
       "articles": [
+        {
+          "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
+          "url": "https://www.famitsu.com/article/202610/91606",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-25T22:10:00.000Z",
+          "isPR": false
+        },
         {
           "title": "『ラグナロク：アドベンチャーズ』が11月4日に日本国内で正式サービス開始！ 事前登録特典3も追加",
           "url": "https://www.appbank.net/2026/10/25/game/3139936.php",
@@ -33,6 +40,45 @@
     }
   ],
   "items": [
+    {
+      "id": "97894cf0b145",
+      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
+      "url": "https://news.infoseek.co.jp/article/inside_189957/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:00:03.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
+      "scope": "ragad",
+      "categories": [
+        "guide"
+      ],
+      "systems": [
+        "auto-battle",
+        "job"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "afaa1ea91782",
+      "title": "新作アプリ『ラグナロク：アドベンチャーズ』先行レビュー。放置系＆タテ持ちになっても『RO』の楽しさは健在！",
+      "url": "https://dengekionline.com/article/202610/91775",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/91775/ogp_QEkA.jpg?x=1280",
+      "scope": "ragad",
+      "categories": [
+        "guide"
+      ],
+      "systems": [
+        "auto-battle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "d7a9d05e2720",
       "title": "『ラグナロクオンライン』でキャラクターの名前変更・性別変更が実装！ 10月27日から「復刻コスたま2026 Season4」も開催",
