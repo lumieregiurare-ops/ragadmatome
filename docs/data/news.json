@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:00:22.662Z",
+  "updatedAt": "2026-10-28T14:30:20.430Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -200,24 +200,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "d415c8db5be0",
-      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52042.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-26T10:16:30.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1bea2df5c291",
