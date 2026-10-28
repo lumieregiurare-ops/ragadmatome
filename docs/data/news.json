@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:30:18.278Z",
+  "updatedAt": "2026-10-28T07:00:19.732Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -11,7 +11,7 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-28T03:00:03.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "guide",
         "release"
@@ -19,9 +19,16 @@
       "keywords": [
         "正式サービス",
         "オートバトル",
-        "手軽"
+        "放置"
       ],
       "articles": [
+        {
+          "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
+          "url": "https://www.famitsu.com/article/202610/92176",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-28T03:00:00.000Z",
+          "isPR": false
+        },
         {
           "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
           "url": "https://www.famitsu.com/article/202610/91606",
@@ -78,6 +85,26 @@
       ],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "254e684b1a99",
+      "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
+      "url": "https://www.famitsu.com/article/202610/92176",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/92176/thumbnail_qMlr.jpg?x=1280",
+      "scope": "ragad",
+      "categories": [
+        "guide"
+      ],
+      "systems": [
+        "auto-battle",
+        "dungeon"
+      ],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "d7a9d05e2720",
