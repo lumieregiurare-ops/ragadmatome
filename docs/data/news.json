@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:30:26.547Z",
+  "updatedAt": "2026-10-29T01:57:26.885Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -107,23 +107,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "ee9ea1256094",
-      "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/502093",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-27T07:14:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "0042ddca784a",
