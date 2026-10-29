@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:30:18.448Z",
+  "updatedAt": "2026-10-29T14:00:18.653Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -188,6 +188,23 @@
       "isNew": false
     },
     {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-28T23:51:15.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "97894cf0b145",
       "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
       "url": "https://news.infoseek.co.jp/article/inside_189957/",
@@ -365,6 +382,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "42e8faf04e80",
+      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52050.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:57:23.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
