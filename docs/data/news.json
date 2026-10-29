@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:30:18.598Z",
+  "updatedAt": "2026-10-29T07:00:18.968Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -126,23 +126,6 @@
       "isNew": false
     },
     {
-      "id": "88727e1ff043",
-      "title": "【ラグナロクX】ASPDの効果解説と上げられるカード【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/519989",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-27T07:14:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/519989.png?date=1758679474",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "0042ddca784a",
       "title": "「ラグナロクオンライン」キャラクターの名前変更と性別変更が実装！過去に販売されたコスたまの復刻も",
       "url": "https://www.gamer.ne.jp/news/202610270018/",
@@ -164,9 +147,9 @@
       "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
       "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
       "host": "prtimes.jp",
-      "source": "Mantan Web",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-10-27T05:14:57.000Z",
+      "publishedAt": "2026-10-27T02:12:19.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
@@ -205,23 +188,6 @@
       "scope": "series",
       "categories": [
         "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:57:23.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
