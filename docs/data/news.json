@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:57:26.885Z",
+  "updatedAt": "2026-10-29T02:30:17.203Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -109,6 +109,23 @@
       "isNew": false
     },
     {
+      "id": "ee9ea1256094",
+      "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/502093",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-27T07:14:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "0042ddca784a",
       "title": "「ラグナロクオンライン」キャラクターの名前変更と性別変更が実装！過去に販売されたコスたまの復刻も",
       "url": "https://www.gamer.ne.jp/news/202610270018/",
@@ -175,6 +192,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "42e8faf04e80",
+      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52050.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:57:23.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
