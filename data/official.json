@@ -14,11 +14,11 @@
   },
   {
     "id": "5",
-    "title": "正式サービス開始日決定！",
+    "title": "《更新》正式サービス開始日延期のお知らせ",
     "url": "https://ragnarokadv.gungho.jp/news/5",
     "publishedAt": "2026-10-21T03:00:00.000Z",
     "category": "お知らせ",
-    "image": "https://ragnarokadv.gungho.jp/system/files/2026-10/ROIA-41_%E6%AD%A3%E5%BC%8F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B%E6%97%A5%E5%91%8A%E7%9F%A5%E3%83%90%E3%83%8A%E3%83%BC.jpg",
+    "image": "https://ragnarokadv.gungho.jp/system/files/2026-10/ROIA-6_%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB.jpg",
     "excerpt": "『ラグナロク：アドベンチャーズ』の正式サービス開始日が 2026年11月4日(水) に決定！ ▼正式サービス開始日決定を記念して、事前登録特典【第3弾】を追加いたしました！ https://ragnarokadv.gungho.jp/pre/ 事前登録がお済でない方は こちら から！ ぜひご登録の上、正式サービス開始を楽しみにお待ちください✨",
     "period": null
   },
@@ -49,6 +49,16 @@
     }
   },
   {
+    "id": "2",
+    "title": "『ラグナロク：アドベンチャーズ』事前登録受付中！",
+    "url": "https://ragnarokadv.gungho.jp/news/2",
+    "publishedAt": "2026-08-13T03:00:00.000Z",
+    "category": "お知らせ",
+    "image": "https://ragnarokadv.gungho.jp/system/files/2026-07/ROIA-27_%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E9%96%8B%E5%A7%8B%E5%91%8A%E7%9F%A5%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%A1%88%E5%86%85%E3%83%90%E3%83%8A%E3%83%BC.jpg",
+    "excerpt": "本日より、『ラグナロク：アドベンチャーズ』の事前登録を各ストアにて開始いたします。 『ラグナロク：アドベンチャーズ』の事前登録特典についての詳細は、事前登録特設ページまたは『ラグナロク：アドベンチャーズ』公式Xアカウントをご確認ください。 『ラグナロク：アドベンチャーズ』事前登録特設ページ https://ragnarokadv.gungho.jp/pre…",
+    "period": null
+  },
+  {
     "id": "1",
     "title": "事前登録開始記念！フォロー＆リポストキャンペーン 第1弾",
     "url": "https://ragnarokadv.gungho.jp/news/1",
@@ -60,15 +70,5 @@
       "start": "2026-08-13T06:00:00.000Z",
       "end": "2026-08-25T14:59:00.000Z"
     }
-  },
-  {
-    "id": "2",
-    "title": "『ラグナロク：アドベンチャーズ』事前登録受付中！",
-    "url": "https://ragnarokadv.gungho.jp/news/2",
-    "publishedAt": "2026-08-13T03:00:00.000Z",
-    "category": "お知らせ",
-    "image": "https://ragnarokadv.gungho.jp/system/files/2026-07/ROIA-27_%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E9%96%8B%E5%A7%8B%E5%91%8A%E7%9F%A5%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%A1%88%E5%86%85%E3%83%90%E3%83%8A%E3%83%BC.jpg",
-    "excerpt": "本日より、『ラグナロク：アドベンチャーズ』の事前登録を各ストアにて開始いたします。 『ラグナロク：アドベンチャーズ』の事前登録特典についての詳細は、事前登録特設ページまたは『ラグナロク：アドベンチャーズ』公式Xアカウントをご確認ください。 『ラグナロク：アドベンチャーズ』事前登録特設ページ https://ragnarokadv.gungho.jp/pre…",
-    "period": null
   }
 ]
