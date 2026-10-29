@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:30:20.656Z",
+  "updatedAt": "2026-10-29T19:00:20.006Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -205,7 +205,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c43beaaf35d",
