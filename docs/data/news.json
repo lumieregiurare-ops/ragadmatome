@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:30:18.329Z",
+  "updatedAt": "2026-10-29T13:00:18.321Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -98,6 +98,24 @@
       ],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "5f3de7f3d730",
+      "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
+      "url": "https://appmedia.jp/newgame/80309845",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-29T11:17:54.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/08/main_result-35.webp",
+      "scope": "ragad",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "6180b9889eef",
