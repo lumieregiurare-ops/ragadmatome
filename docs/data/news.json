@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:00:20.117Z",
+  "updatedAt": "2026-10-29T18:30:20.656Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -22,7 +22,7 @@
       ],
       "articles": [
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -54,6 +54,35 @@
           "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
           "source": "日本経済新聞",
           "publishedAt": "2026-10-29T06:30:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "5f3de7f3d730",
+      "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
+      "summary": "",
+      "url": "https://appmedia.jp/newgame/80309845",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/08/main_result-35.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-10-29T11:17:54.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "keywords": [
+        "事前登録",
+        "配信日",
+        "事前登録情報"
+      ],
+      "articles": [
+        {
+          "title": "ラグナロク：アドベンチャーズの配信日と事前登録情報",
+          "url": "https://gamewith.jp/gamedb/18047",
+          "source": "GameWith",
+          "publishedAt": "2026-10-29T08:46:50.000Z",
           "isPR": false
         }
       ]
@@ -126,7 +155,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -141,7 +170,7 @@
         "auto-battle"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6180b9889eef",
@@ -159,6 +188,24 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "12df26389353",
+      "title": "ラグナロク：アドベンチャーズの配信日と事前登録情報",
+      "url": "https://gamewith.jp/gamedb/18047",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-29T08:46:50.000Z",
+      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/c4c5436e8b9db61cafffb65d5b3ff37b.jpg",
+      "scope": "ragad",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "8c43beaaf35d",
@@ -212,23 +259,6 @@
       ],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "ad8f0aba5b78",
-      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52054.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-28T23:51:15.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "97894cf0b145",
