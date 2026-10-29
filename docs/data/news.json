@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T11:30:19.487Z",
+  "updatedAt": "2026-10-29T12:00:17.435Z",
   "updateGapMin": 30,
   "topics": [
     {
-      "id": "6180b9889eef",
-      "title": "「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表",
+      "id": "0ae8beac89ae",
+      "title": "かんたんオートバトルRPG「ラグナロク:アドベンチャーズ」日本国内の正式サービス開始日が延期に――新たな開始時期は未定",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/128b95df9d78a74b08911e044f4760b99e44b2b0",
+      "url": "https://www.gamer.ne.jp/news/202610290052/",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000038-impgmw-000-1-view.jpg?exp=10800",
-      "leadSource": "GAME Watch",
-      "publishedAt": "2026-10-29T10:14:13.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "leadSource": "Gamer",
+      "publishedAt": "2026-10-29T11:37:00.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "release"
       ],
@@ -21,6 +21,13 @@
         "正式"
       ],
       "articles": [
+        {
+          "title": "「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表",
+          "url": "https://news.yahoo.co.jp/articles/128b95df9d78a74b08911e044f4760b99e44b2b0",
+          "source": "GAME Watch",
+          "publishedAt": "2026-10-29T10:14:13.000Z",
+          "isPR": false
+        },
         {
           "title": "「ラグナロク：アドベンチャーズ」，日本国内の正式サービス開始を延期。新たな開始日は未定",
           "url": "https://www.4gamer.net/games/033/G103301/20261029031/",
@@ -73,6 +80,25 @@
     }
   ],
   "items": [
+    {
+      "id": "0ae8beac89ae",
+      "title": "かんたんオートバトルRPG「ラグナロク:アドベンチャーズ」日本国内の正式サービス開始日が延期に――新たな開始時期は未定",
+      "url": "https://www.gamer.ne.jp/news/202610290052/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-29T11:37:00.000Z",
+      "image": "",
+      "scope": "ragad",
+      "categories": [
+        "release"
+      ],
+      "systems": [
+        "auto-battle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "6180b9889eef",
       "title": "「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表",
@@ -235,7 +261,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "88727e1ff043",
@@ -276,9 +302,9 @@
       "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
       "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "Mantan Web",
       "summary": "",
-      "publishedAt": "2026-10-27T02:12:19.000Z",
+      "publishedAt": "2026-10-27T05:14:57.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
@@ -321,23 +347,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:57:23.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     }
   ]
 }
