@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:30:20.768Z",
+  "updatedAt": "2026-10-29T09:00:21.453Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -10,8 +10,8 @@
       "image": "https://www.4gamer.net/games/033/G103301/20261029031/SS/001.jpg",
       "leadSource": "4Gamer.net",
       "publishedAt": "2026-10-29T07:07:58.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "release"
       ],
@@ -26,6 +26,13 @@
           "url": "https://gamebiz.jp/news/434805",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-10-29T06:38:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ガンホー・オンライン・エンターテイメント[3765]：スマートフォン向け かんたんオートバトルRPG『ラグナロク：アドベンチャーズ』日本国内正式サービス開始日 延期のお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
+          "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
+          "source": "日本経済新聞",
+          "publishedAt": "2026-10-29T06:30:00.000Z",
           "isPR": false
         }
       ]
@@ -92,6 +99,25 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "a284e5683321",
+      "title": "ガンホー・オンライン・エンターテイメント[3765]：スマートフォン向け かんたんオートバトルRPG『ラグナロク：アドベンチャーズ』日本国内正式サービス開始日 延期のお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
+      "host": "nikkei.com",
+      "source": "日本経済新聞",
+      "summary": "",
+      "publishedAt": "2026-10-29T06:30:00.000Z",
+      "image": "",
+      "scope": "ragad",
+      "categories": [
+        "release"
+      ],
+      "systems": [
+        "auto-battle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "97894cf0b145",
@@ -271,6 +297,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "42e8faf04e80",
+      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52050.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:57:23.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }

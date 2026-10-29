@@ -28,5 +28,22 @@
    "release"
   ],
   "systems": []
+ },
+ {
+  "id": "a284e5683321",
+  "title": "ガンホー・オンライン・エンターテイメント[3765]：スマートフォン向け かんたんオートバトルRPG『ラグナロク：アドベンチャーズ』日本国内正式サービス開始日 延期のお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
+  "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
+  "host": "nikkei.com",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-29T06:30:00.000Z",
+  "image": "",
+  "scope": "ragad",
+  "categories": [
+   "release"
+  ],
+  "systems": [
+   "auto-battle"
+  ]
  }
 ]
