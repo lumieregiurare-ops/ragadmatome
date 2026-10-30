@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:30:18.359Z",
+  "updatedAt": "2026-10-30T06:00:17.429Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -29,7 +29,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -138,7 +138,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ae8beac89ae",
@@ -179,7 +179,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -453,7 +453,7 @@
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-10-27T05:57:00.000Z",
+      "publishedAt": "2026-10-27T06:06:25.000Z",
       "image": "",
       "scope": "series",
       "categories": [
