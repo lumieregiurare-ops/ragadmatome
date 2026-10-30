@@ -61,13 +61,28 @@
   "systems": []
  },
  {
+  "id": "b089ef279a0e",
+  "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！：時事ドットコム",
+  "url": "https://www.jiji.com/jc/article?k",
+  "host": "jiji.com",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-10-27T05:16:00.000Z",
+  "image": "",
+  "scope": "series",
+  "categories": [
+   "update"
+  ],
+  "systems": []
+ },
+ {
   "id": "a80afbb44534",
   "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
   "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
   "host": "prtimes.jp",
-  "source": "Mantan Web",
+  "source": "Infoseek",
   "summary": "",
-  "publishedAt": "2026-10-27T05:14:57.000Z",
+  "publishedAt": "2026-10-27T05:15:39.000Z",
   "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "scope": "series",
   "categories": [

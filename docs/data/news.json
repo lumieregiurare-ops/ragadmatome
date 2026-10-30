@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:00:16.588Z",
+  "updatedAt": "2026-10-30T03:30:20.493Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -22,7 +22,7 @@
       ],
       "articles": [
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -155,7 +155,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -259,6 +259,23 @@
       ],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-28T23:51:15.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "97894cf0b145",
@@ -389,13 +406,30 @@
       "isNew": false
     },
     {
+      "id": "b089ef279a0e",
+      "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k",
+      "host": "jiji.com",
+      "source": "時事ドットコム",
+      "summary": "",
+      "publishedAt": "2026-10-27T05:16:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "a80afbb44534",
       "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
       "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
       "host": "prtimes.jp",
-      "source": "Mantan Web",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-27T05:14:57.000Z",
+      "publishedAt": "2026-10-27T05:15:39.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
