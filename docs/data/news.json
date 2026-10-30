@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:30:21.268Z",
+  "updatedAt": "2026-10-30T09:00:19.973Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -29,7 +29,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -179,7 +179,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -389,24 +389,6 @@
       "scope": "series",
       "categories": [
         "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "d7a9d05e2720",
-      "title": "『ラグナロクオンライン』でキャラクターの名前変更・性別変更が実装！ 10月27日から「復刻コスたま2026 Season4」も開催",
-      "url": "https://www.appbank.net/2026/10/27/game/3145047.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-10-27T08:47:49.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261027_123126_776_01.webp",
-      "scope": "series",
-      "categories": [
-        "update",
-        "event"
       ],
       "systems": [],
       "viaGoogle": false,
