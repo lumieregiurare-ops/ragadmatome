@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:30:17.440Z",
+  "updatedAt": "2026-10-30T01:00:18.213Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -7,11 +7,11 @@
       "title": "かんたんオートバトルRPG「ラグナロク:アドベンチャーズ」日本国内の正式サービス開始日が延期に――新たな開始時期は未定",
       "summary": "",
       "url": "https://www.gamer.ne.jp/news/202610290052/",
-      "image": "https://image.news.livedoor.com/newsimage/stf/b/3/b31b5_1838_d07341d038b4206e4daf3269c9280402.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000038-impgmw-000-1-view.jpg?exp=10800",
       "leadSource": "Gamer",
       "publishedAt": "2026-10-29T11:37:00.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "release"
       ],
@@ -21,13 +21,6 @@
         "正式"
       ],
       "articles": [
-        {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
-          "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-29T10:14:13.000Z",
-          "isPR": false
-        },
         {
           "title": "「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表",
           "url": "https://news.yahoo.co.jp/articles/128b95df9d78a74b08911e044f4760b99e44b2b0",
@@ -152,25 +145,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
-      "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-29T10:14:13.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/b/3/b31b5_1838_d07341d038b4206e4daf3269c9280402.jpg",
-      "scope": "ragad",
-      "categories": [
-        "release"
-      ],
-      "systems": [
-        "auto-battle"
-      ],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "6180b9889eef",
@@ -338,6 +312,23 @@
       "isNew": false
     },
     {
+      "id": "ee9ea1256094",
+      "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/502093",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-27T07:14:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "88727e1ff043",
       "title": "【ラグナロクX】ASPDの効果解説と上げられるカード【ROX】",
       "url": "https://gamewith.jp/ragnarokx/519989",
@@ -376,9 +367,9 @@
       "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
       "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
       "host": "prtimes.jp",
-      "source": "Mantan Web",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-27T05:14:57.000Z",
+      "publishedAt": "2026-10-27T05:15:39.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
