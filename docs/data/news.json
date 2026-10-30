@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:00:18.022Z",
+  "updatedAt": "2026-10-30T10:30:18.482Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -29,7 +29,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -124,6 +124,25 @@
   ],
   "items": [
     {
+      "id": "ca4f3248aca7",
+      "title": "プレイレビュー】あの頃の思い出をもう一度『ラグナロクオンライン』がスマホで遊べる放置系RPGに！懐かしのBGMやキャラクターに思わず感動『ラグナロク：アドベンチャーズ",
+      "url": "https://gamewith.jp/gamedb/18047/articles/64928",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T10:00:02.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/18047/rectangle/64928.png?t=1793354405",
+      "scope": "ragad",
+      "categories": [
+        "guide"
+      ],
+      "systems": [
+        "auto-battle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "2a15c71b5cc8",
       "title": "『ラグナロク：アドベンチャーズ』日本国内正式サービス開始日が延期、新日程は未定に",
       "url": "https://www.appbank.net/2026/10/30/game/3148620.php",
@@ -179,7 +198,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
