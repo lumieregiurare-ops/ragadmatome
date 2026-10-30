@@ -1,5 +1,20 @@
 [
  {
+  "id": "a80afbb44534",
+  "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
+  "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
+  "host": "prtimes.jp",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-27T11:00:32.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "scope": "series",
+  "categories": [
+   "update"
+  ],
+  "systems": []
+ },
+ {
   "id": "d7a9d05e2720",
   "title": "『ラグナロクオンライン』でキャラクターの名前変更・性別変更が実装！ 10月27日から「復刻コスたま2026 Season4」も開催",
   "url": "https://www.appbank.net/2026/10/27/game/3145047.php",
@@ -69,21 +84,6 @@
   "summary": "",
   "publishedAt": "2026-10-27T05:16:00.000Z",
   "image": "",
-  "scope": "series",
-  "categories": [
-   "update"
-  ],
-  "systems": []
- },
- {
-  "id": "a80afbb44534",
-  "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
-  "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
-  "host": "prtimes.jp",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-27T05:15:39.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "scope": "series",
   "categories": [
    "update"
