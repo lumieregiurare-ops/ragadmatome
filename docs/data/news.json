@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:30:18.482Z",
+  "updatedAt": "2026-10-30T11:00:17.243Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -140,7 +140,7 @@
         "auto-battle"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a15c71b5cc8",
