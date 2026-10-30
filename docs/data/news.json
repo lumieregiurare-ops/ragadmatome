@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:00:17.243Z",
+  "updatedAt": "2026-10-30T11:30:20.110Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -29,7 +29,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -72,7 +72,7 @@
       "url": "https://appmedia.jp/newgame/80309845",
       "image": "https://appmedia.jp/wp-content/uploads/2026/08/main_result-35.webp",
       "leadSource": "AppMedia",
-      "publishedAt": "2026-10-29T11:17:54.000Z",
+      "publishedAt": "2026-10-30T10:34:24.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -123,6 +123,24 @@
     }
   ],
   "items": [
+    {
+      "id": "5f3de7f3d730",
+      "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
+      "url": "https://appmedia.jp/newgame/80309845",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-30T10:34:24.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/08/main_result-35.webp",
+      "scope": "ragad",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "ca4f3248aca7",
       "title": "プレイレビュー】あの頃の思い出をもう一度『ラグナロクオンライン』がスマホで遊べる放置系RPGに！懐かしのBGMやキャラクターに思わず感動『ラグナロク：アドベンチャーズ",
@@ -179,26 +197,8 @@
       "isNew": false
     },
     {
-      "id": "5f3de7f3d730",
-      "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
-      "url": "https://appmedia.jp/newgame/80309845",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-29T11:17:54.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/08/main_result-35.webp",
-      "scope": "ragad",
-      "categories": [
-        "guide",
-        "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 3/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -393,23 +393,6 @@
         "auto-battle",
         "dungeon"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a80afbb44534",
-      "title": "【ラグナロクオンライン】キャラクターの名前変更と性別変更を実装！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002191.000025063.html",
-      "host": "prtimes.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-27T11:00:32.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2191/25063-2191-bac2327952affcfe6cff40e71c797767-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "update"
-      ],
-      "systems": [],
       "viaGoogle": false,
       "isNew": false
     }
