@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:00:19.099Z",
+  "updatedAt": "2026-10-30T07:30:17.217Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -29,7 +29,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -179,7 +179,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -407,40 +407,6 @@
       "categories": [
         "update",
         "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ee9ea1256094",
-      "title": "【ラグナロクX】PVP(KVM・GVG)対人コンテンツ対策まとめ【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/502093",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-27T07:14:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/502093.png?date=1749458986",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "88727e1ff043",
-      "title": "【ラグナロクX】ASPDの効果解説と上げられるカード【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/519989",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-27T07:14:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/519989.png?date=1758679474",
-      "scope": "series",
-      "categories": [
-        "guide"
       ],
       "systems": [],
       "viaGoogle": false,
