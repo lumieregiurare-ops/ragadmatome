@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:30:17.401Z",
+  "updatedAt": "2026-10-31T04:00:15.989Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -29,7 +29,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+          "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-29T10:14:13.000Z",
@@ -93,36 +93,26 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "254e684b1a99",
-      "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/202610/92176",
-      "image": "https://cimg.kgl-systems.io/camion/files/92176/thumbnail_qMlr.jpg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-10-28T06:40:42.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide"
-      ],
-      "keywords": [
-        "先行",
-        "放置"
-      ],
-      "articles": [
-        {
-          "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
-          "url": "https://news.infoseek.co.jp/article/inside_189957/",
-          "source": "Excite エキサイト",
-          "publishedAt": "2026-10-28T03:56:37.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "id": "d415c8db5be0",
+      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52042.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-30T21:23:55.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "5f3de7f3d730",
       "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
@@ -178,6 +168,23 @@
       "isNew": false
     },
     {
+      "id": "f7f64d96cc35",
+      "title": "＜画像17 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52056.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-29T13:10:53.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "0ae8beac89ae",
       "title": "かんたんオートバトルRPG「ラグナロク:アドベンチャーズ」日本国内の正式サービス開始日が延期に――新たな開始時期は未定",
       "url": "https://www.gamer.ne.jp/news/202610290052/",
@@ -198,7 +205,7 @@
     },
     {
       "id": "f25fabd4c995",
-      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 1/5 - ライブドアニュース",
+      "title": "【画像】「ラグナロク：アドベンチャーズ」日本での正式サービス開始を延期。リリース6日前の急な発表ガンホーのかんたんオートバトルRPG。新たな配信日は未定 2/5 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32686631/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -321,23 +328,6 @@
       "isNew": false
     },
     {
-      "id": "ad8f0aba5b78",
-      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52054.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-28T23:51:15.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "254e684b1a99",
       "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
       "url": "https://www.famitsu.com/article/202610/92176",
@@ -353,26 +343,6 @@
       "systems": [
         "auto-battle",
         "dungeon"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "97894cf0b145",
-      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
-      "url": "https://news.infoseek.co.jp/article/inside_189957/",
-      "host": "news.infoseek.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:56:37.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
-      "scope": "ragad",
-      "categories": [
-        "guide"
-      ],
-      "systems": [
-        "auto-battle",
-        "job"
       ],
       "viaGoogle": false,
       "isNew": false
