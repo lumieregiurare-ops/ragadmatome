@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:30:17.828Z",
+  "updatedAt": "2026-10-31T03:00:17.993Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -95,28 +95,28 @@
       ]
     },
     {
-      "id": "97894cf0b145",
-      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
+      "id": "254e684b1a99",
+      "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
       "summary": "",
-      "url": "https://news.infoseek.co.jp/article/inside_189957/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-10-28T03:00:03.000Z",
+      "url": "https://www.famitsu.com/article/202610/92176",
+      "image": "https://cimg.kgl-systems.io/camion/files/92176/thumbnail_qMlr.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-10-28T06:40:42.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
         "guide"
       ],
       "keywords": [
-        "放置",
-        "先行"
+        "先行",
+        "放置"
       ],
       "articles": [
         {
-          "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
-          "url": "https://www.famitsu.com/article/202610/92176",
-          "source": "ファミ通",
-          "publishedAt": "2026-10-28T03:00:00.000Z",
+          "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
+          "url": "https://news.infoseek.co.jp/article/inside_189957/",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-10-28T03:56:37.000Z",
           "isPR": false
         }
       ]
@@ -338,52 +338,13 @@
       "isNew": false
     },
     {
-      "id": "97894cf0b145",
-      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
-      "url": "https://news.infoseek.co.jp/article/inside_189957/",
-      "host": "news.infoseek.co.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
-      "scope": "ragad",
-      "categories": [
-        "guide"
-      ],
-      "systems": [
-        "auto-battle",
-        "job"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "afaa1ea91782",
-      "title": "新作アプリ『ラグナロク：アドベンチャーズ』先行レビュー。放置系＆タテ持ちになっても『RO』の楽しさは健在！",
-      "url": "https://dengekionline.com/article/202610/91775",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91775/ogp_QEkA.jpg?x=1280",
-      "scope": "ragad",
-      "categories": [
-        "guide"
-      ],
-      "systems": [
-        "auto-battle"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "254e684b1a99",
       "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
       "url": "https://www.famitsu.com/article/202610/92176",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
+      "publishedAt": "2026-10-28T06:40:42.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/92176/thumbnail_qMlr.jpg?x=1280",
       "scope": "ragad",
       "categories": [
@@ -392,6 +353,26 @@
       "systems": [
         "auto-battle",
         "dungeon"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "97894cf0b145",
+      "title": "放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り分けで自由に成長できる「ラグナロク」シリーズの超お手軽なかんたんオートバトルRPG【先行プレイ】",
+      "url": "https://news.infoseek.co.jp/article/inside_189957/",
+      "host": "news.infoseek.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:56:37.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189957_0-enlarge.jpg",
+      "scope": "ragad",
+      "categories": [
+        "guide"
+      ],
+      "systems": [
+        "auto-battle",
+        "job"
       ],
       "viaGoogle": false,
       "isNew": false
