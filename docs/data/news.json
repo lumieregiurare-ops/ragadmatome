@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:56:13.815Z",
+  "updatedAt": "2026-10-31T07:30:22.052Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -10,15 +10,15 @@
       "image": "https://image.news.livedoor.com/newsimage/stf/b/3/b31b5_1838_d07341d038b4206e4daf3269c9280402.jpg",
       "leadSource": "AppBank",
       "publishedAt": "2026-10-30T05:04:05.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "release"
       ],
       "keywords": [
         "正式サービス",
         "サービス",
-        "正式"
+        "延期"
       ],
       "articles": [
         {
@@ -62,13 +62,6 @@
           "source": "日本経済新聞",
           "publishedAt": "2026-10-29T06:30:00.000Z",
           "isPR": false
-        },
-        {
-          "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
-          "url": "https://www.famitsu.com/article/202610/91606",
-          "source": "ファミ通",
-          "publishedAt": "2026-10-28T07:00:00.000Z",
-          "isPR": false
         }
       ]
     },
@@ -103,23 +96,6 @@
     }
   ],
   "items": [
-    {
-      "id": "d415c8db5be0",
-      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52042.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-30T21:23:55.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
     {
       "id": "5f3de7f3d730",
       "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
@@ -335,21 +311,19 @@
       "isNew": false
     },
     {
-      "id": "1bea2df5c291",
-      "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
-      "url": "https://www.famitsu.com/article/202610/91606",
-      "host": "famitsu.com",
-      "source": "ファミ通",
+      "id": "d415c8db5be0",
+      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52042.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
       "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91606/thumbnail_pyJX.jpg?x=1280",
-      "scope": "ragad",
+      "publishedAt": "2026-10-28T10:23:10.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
       "categories": [
-        "release"
+        "news"
       ],
-      "systems": [
-        "auto-battle"
-      ],
+      "systems": [],
       "viaGoogle": false,
       "isNew": false
     }
