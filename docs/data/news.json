@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:30:16.139Z",
+  "updatedAt": "2026-10-31T06:56:13.815Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -103,6 +103,23 @@
     }
   ],
   "items": [
+    {
+      "id": "d415c8db5be0",
+      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52042.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-30T21:23:55.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "5f3de7f3d730",
       "title": "【ラグナロク：アドベンチャーズ】配信日と事前登録情報｜最新情報｜ラグアド",
@@ -318,23 +335,6 @@
       "isNew": false
     },
     {
-      "id": "d415c8db5be0",
-      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52042.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-28T10:23:10.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "1bea2df5c291",
       "title": "『ラグナロク：アドベンチャーズ』11月4日に正式サービス開始。片手で手軽に遊べるガンホーの新作オートバトルRPG",
       "url": "https://www.famitsu.com/article/202610/91606",
@@ -349,26 +349,6 @@
       ],
       "systems": [
         "auto-battle"
-      ],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "254e684b1a99",
-      "title": "『ラグナロク：アドベンチャーズ』先行レビュー。放置して、育てて、ボスに勝てなかったらまた放置。『RO』の世界をのんびり楽しめるRPG【ラグアド】",
-      "url": "https://www.famitsu.com/article/202610/92176",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-28T06:40:42.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/92176/thumbnail_qMlr.jpg?x=1280",
-      "scope": "ragad",
-      "categories": [
-        "guide"
-      ],
-      "systems": [
-        "auto-battle",
-        "dungeon"
       ],
       "viaGoogle": false,
       "isNew": false
