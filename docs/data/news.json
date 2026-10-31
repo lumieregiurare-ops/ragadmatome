@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:00:17.191Z",
+  "updatedAt": "2026-10-31T14:30:17.090Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -96,23 +96,6 @@
     }
   ],
   "items": [
-    {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-31T06:00:27.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
     {
       "id": "d415c8db5be0",
       "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
@@ -311,6 +294,23 @@
       "isNew": false
     },
     {
+      "id": "42e8faf04e80",
+      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52050.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-29T06:13:21.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "ad8f0aba5b78",
       "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
       "url": "https://www.walkerplus.com/article/14387/image52054.html",
@@ -325,7 +325,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     }
   ]
 }
