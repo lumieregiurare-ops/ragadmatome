@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:00:17.771Z",
+  "updatedAt": "2026-11-02T08:30:16.340Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -19,24 +19,6 @@
       "systems": [
         "auto-battle"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "12df26389353",
-      "title": "ラグナロク：アドベンチャーズの配信日と事前登録情報",
-      "url": "https://gamewith.jp/gamedb/18047",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T07:21:17.000Z",
-      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/c4c5436e8b9db61cafffb65d5b3ff37b.jpg",
-      "scope": "ragad",
-      "categories": [
-        "guide",
-        "release"
-      ],
-      "systems": [],
       "viaGoogle": false,
       "isNew": false
     }
