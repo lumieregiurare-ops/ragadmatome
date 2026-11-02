@@ -1,26 +1,41 @@
 {
-  "updatedAt": "2026-11-02T08:30:16.340Z",
+  "updatedAt": "2026-11-02T09:00:27.155Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
     {
-      "id": "ca4f3248aca7",
-      "title": "プレイレビュー】あの頃の思い出をもう一度『ラグナロクオンライン』がスマホで遊べる放置系RPGに！懐かしのBGMやキャラクターに思わず感動『ラグナロク：アドベンチャーズ",
-      "url": "https://gamewith.jp/gamedb/18047/articles/64928",
-      "host": "gamewith.jp",
+      "id": "8155a157ad86",
+      "title": "【グラブル】ラグナロク(イド剣)の評価/必要本数と編成例【グランブルーファンタジー】",
+      "url": "https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/586226",
+      "host": "xn--bck3aza1a2if6kra4ee0hf.gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-30T07:30:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/18047/rectangle/64928.png?t=1793354405",
-      "scope": "ragad",
+      "publishedAt": "2026-11-01T17:53:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586226.png?date=1793415910",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "c1115c7bea47",
+      "title": "【グラブル】 ラグナロク（イド剣）の評価と必要本数",
+      "url": "https://kamigame.jp/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%AB/page/446902908026375547.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-10-31T03:11:00.000Z",
+      "image": "https://img.kamigame.jp/6VXKlmkCP2bqQrhfhEBoslXfrr1vCl_NjPycbpeHSLfG7vdvKFz7ipp6jRhH1PgVNFWftBIBsFE3R2XZIj8yMosRfxLxzF0Om5x56_yRMaQ",
+      "scope": "series",
       "categories": [
         "guide"
       ],
-      "systems": [
-        "auto-battle"
-      ],
+      "systems": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     }
   ]
 }
