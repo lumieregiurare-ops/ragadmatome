@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-06T03:00:17.073Z",
+  "updatedAt": "2026-11-06T03:30:18.979Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "04fdd3002eaa",
+      "title": "「ラグナロクオンラインシリーズ公式ポータル」登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002177.000025063.html",
+      "host": "prtimes.jp",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:46:04.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2177/25063-2177-05026848809162d704e16be39f2d5774-1465x962.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "ad8f0aba5b78",
       "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
@@ -18,7 +35,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e85c12805294",
