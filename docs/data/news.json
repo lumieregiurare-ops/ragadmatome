@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-11-08T06:30:15.712Z",
+  "updatedAt": "2026-11-08T07:00:17.440Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": []
+  "items": [
+    {
+      "id": "9a815a20f9b3",
+      "title": "ラグナロクオンラインで秋の缶詰Getキャンペーン開催や限定パック2種販売へ",
+      "url": "https://news.dellows.jp/752713/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-08T01:35:55.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/752713_1.jpg",
+      "scope": "series",
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "04fdd3002eaa",
+      "title": "「ラグナロクオンラインシリーズ公式ポータル」登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002177.000025063.html",
+      "host": "prtimes.jp",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:46:04.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2177/25063-2177-05026848809162d704e16be39f2d5774-1465x962.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:20:49.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    }
+  ]
 }
