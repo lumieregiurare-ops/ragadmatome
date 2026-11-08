@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-08T03:00:16.154Z",
+  "updatedAt": "2026-11-08T03:30:16.473Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "9a815a20f9b3",
+      "title": "ラグナロクオンラインで秋の缶詰Getキャンペーン開催や限定パック2種販売へ",
+      "url": "https://news.dellows.jp/752713/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-08T01:35:55.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/752713_1.jpg",
+      "scope": "series",
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "04fdd3002eaa",
       "title": "「ラグナロクオンラインシリーズ公式ポータル」登場！",
