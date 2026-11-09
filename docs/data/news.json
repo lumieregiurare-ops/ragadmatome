@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-09T10:00:18.321Z",
+  "updatedAt": "2026-11-09T10:30:20.750Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "36d5bd911ce2",
+      "title": "「ラグナロクオンライン3」開発中のゲームを体験できるフォーカスグループテストが12月19日・20日に開催！参加者20名を募集",
+      "url": "https://www.gamer.ne.jp/news/202611090037/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-09T10:01:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "2a91f29c57b6",
       "title": "「ラグナロクオンライン３」，日本でのフォーカスグループテスト参加者を募集。12月19日，20日に都内で開催。応募は11月23日23：59まで",
