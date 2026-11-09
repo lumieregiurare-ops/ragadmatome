@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T10:30:20.750Z",
+  "updatedAt": "2026-11-09T11:00:21.420Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,7 +18,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a91f29c57b6",
@@ -44,7 +44,7 @@
       "host": "news.dellows.jp",
       "source": "Dellows News",
       "summary": "",
-      "publishedAt": "2026-11-08T18:56:15.000Z",
+      "publishedAt": "2026-11-08T01:35:55.000Z",
       "image": "https://news.dellows.jp/wp-content/uploads/2026/10/752713_1.jpg",
       "scope": "series",
       "categories": [
