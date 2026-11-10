@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-10T03:00:17.552Z",
+  "updatedAt": "2026-11-10T03:30:16.980Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "0e7caf2d6a68",
+      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:09:34.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "36d5bd911ce2",
       "title": "「ラグナロクオンライン3」開発中のゲームを体験できるフォーカスグループテストが12月19日・20日に開催！参加者20名を募集",
