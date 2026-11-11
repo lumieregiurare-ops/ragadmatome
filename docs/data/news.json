@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:30:19.665Z",
+  "updatedAt": "2026-11-11T19:00:20.513Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -99,24 +99,6 @@
       "image": "https://www.4gamer.net/games/983/G098371/20261109010/SS/001.jpg",
       "scope": "series",
       "categories": [
-        "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9a815a20f9b3",
-      "title": "ラグナロクオンラインで秋の缶詰Getキャンペーン開催や限定パック2種販売へ",
-      "url": "https://news.dellows.jp/752713/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-08T18:56:15.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/752713_1.jpg",
-      "scope": "series",
-      "categories": [
-        "campaign",
         "event"
       ],
       "systems": [],
