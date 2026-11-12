@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T04:30:16.048Z",
+  "updatedAt": "2026-11-12T05:00:19.082Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -80,23 +80,6 @@
       "summary": "",
       "publishedAt": "2026-11-09T10:01:00.000Z",
       "image": "",
-      "scope": "series",
-      "categories": [
-        "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "2a91f29c57b6",
-      "title": "「ラグナロクオンライン３」，日本でのフォーカスグループテスト参加者を募集。12月19日，20日に都内で開催。応募は11月23日23：59まで",
-      "url": "https://www.4gamer.net/games/983/G098371/20261109010/",
-      "host": "4gamer.net",
-      "source": "4Gamer.net",
-      "summary": "",
-      "publishedAt": "2026-11-09T04:39:21.000Z",
-      "image": "https://www.4gamer.net/games/983/G098371/20261109010/SS/001.jpg",
       "scope": "series",
       "categories": [
         "event"
