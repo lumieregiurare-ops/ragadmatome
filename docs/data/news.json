@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:30:22.009Z",
+  "updatedAt": "2026-11-13T17:00:16.349Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -173,6 +173,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "1ba2e66f9936",
+      "title": "ガンホー・オンライン・エンターテイメント[3765]：スマートフォン／PC向けオープンワールドMMORPG 『ラグナロク：ニューワールド』 2027年上半期、日本国内でのサービス提供が決定！ 2026年11月13日(適時開示) ：日経会社…",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261113578588/",
+      "host": "nikkei.com",
+      "source": "日本経済新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:30:00.000Z",
+      "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261113578588/thumbnail/?ttype=ogp",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "2cd0843c9768",
