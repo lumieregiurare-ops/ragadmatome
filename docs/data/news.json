@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:30:18.793Z",
+  "updatedAt": "2026-11-13T06:00:18.961Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -32,24 +32,6 @@
       "scope": "series",
       "categories": [
         "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "394ff5804b48",
-      "title": "【ラグナロクX】イベント内容まとめ【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/473779",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T05:32:48.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/473779.png?date=1747296386",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "event"
       ],
       "systems": [],
       "viaGoogle": false,
