@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:00:18.934Z",
+  "updatedAt": "2026-11-13T02:30:22.531Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -39,6 +39,23 @@
       "isNew": false
     },
     {
+      "id": "0e7caf2d6a68",
+      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ASCII.jp",
+      "summary": "",
+      "publishedAt": "2026-11-10T05:03:25.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "9d72c86e1ff5",
       "title": "『ラグナロクオンライン』禁書「特異点 アルデバラン時計塔」が11月17日実装！ 24周年特設サイトも公開",
       "url": "https://www.appbank.net/2026/11/10/game/3159962.php",
@@ -64,23 +81,6 @@
       "summary": "",
       "publishedAt": "2026-11-10T03:57:00.000Z",
       "image": "",
-      "scope": "series",
-      "categories": [
-        "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "0e7caf2d6a68",
-      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-10T02:09:34.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
         "release"
