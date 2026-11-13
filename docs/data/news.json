@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T04:00:19.113Z",
+  "updatedAt": "2026-11-13T04:30:16.609Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -50,23 +50,6 @@
       "scope": "series",
       "categories": [
         "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9d72c86e1ff5",
-      "title": "『ラグナロクオンライン』禁書「特異点 アルデバラン時計塔」が11月17日実装！ 24周年特設サイトも公開",
-      "url": "https://www.appbank.net/2026/11/10/game/3159962.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-11-10T04:22:13.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261110_115233_749_01.webp",
-      "scope": "series",
-      "categories": [
-        "update"
       ],
       "systems": [],
       "viaGoogle": false,
