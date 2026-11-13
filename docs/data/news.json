@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:00:18.755Z",
+  "updatedAt": "2026-11-13T11:30:18.177Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -121,6 +121,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "2cd0843c9768",
+      "title": "ガンホー、3Q(1～9月)決算は売上高12％増、営業益58％増と2ケタ増収増益 主力の『パズドラ』の堅調や「Ragnarok」関連タイトルの新作展開が奏功",
+      "url": "https://gamebiz.jp/news/435511",
+      "host": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:15:00.000Z",
+      "image": "https://i3.gamebiz.jp/media/6b676ec9-9d86-45de-9263-616da46c4af9.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "98f0bf121c2d",
