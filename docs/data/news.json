@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T17:30:27.892Z",
+  "updatedAt": "2026-11-13T17:57:26.670Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -21,21 +21,22 @@
       "isNew": false
     },
     {
-      "id": "0537e6fa822b",
-      "title": "『ラグナロク：ニューワールド』日本国内サービスが2027年上半期に決定！",
+      "id": "a5afd5f3c22d",
+      "title": "『ラグナロク：ニューワールド』日本国内サービス開始時期が2027年上半期に決定！",
       "url": "https://gamewith.jp/gamedb/19147/articles/65782",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-13T12:56:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/19147/rectangle/65782.jpg?t=1794574588",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/19147/rectangle/65782.jpg?t=1794574939",
       "scope": "series",
       "categories": [
-        "guide"
+        "guide",
+        "release"
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "49a263fc43b9",
