@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-13T14:30:18.617Z",
+  "updatedAt": "2026-11-13T15:00:20.015Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "6ef6ea2cdd1f",
+      "title": "MMORPG『ラグナロク：ニューワールド』が2027年上半期に日本でサービス提供へ！ シリーズ初のオープンワールド",
+      "url": "https://www.appbank.net/2026/11/13/game/3165361.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:42:24.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261113_160105_417_01.webp",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "0537e6fa822b",
       "title": "『ラグナロク：ニューワールド』日本国内サービスが2027年上半期に決定！",
