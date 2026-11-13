@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T22:30:28.023Z",
+  "updatedAt": "2026-11-13T23:00:18.108Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -142,6 +142,23 @@
       "isNew": false
     },
     {
+      "id": "00c373dc407f",
+      "title": "『ラグナロクオンライン』シリーズ初のオープンワールドMMORPG『ラグナロク：ニューワールド』2027年上半期に日本国",
+      "url": "https://news.nicovideo.jp/watch/nw19988766?from",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T07:09:50.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "c18254588069",
       "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期に日本国内でのサービス提供が決定",
       "url": "https://news.denfaminicogamer.jp/news/2611132f",
@@ -208,6 +225,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-13T05:16:53.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "98f0bf121c2d",
