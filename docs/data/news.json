@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:00:16.128Z",
+  "updatedAt": "2026-11-13T05:30:18.793Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -21,6 +21,23 @@
       "isNew": false
     },
     {
+      "id": "0e7caf2d6a68",
+      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T10:21:18.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "394ff5804b48",
       "title": "【ラグナロクX】イベント内容まとめ【ROX】",
       "url": "https://gamewith.jp/ragnarokx/473779",
@@ -33,23 +50,6 @@
       "categories": [
         "guide",
         "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "0e7caf2d6a68",
-      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
-      "host": "prtimes.jp",
-      "source": "ASCII.jp",
-      "summary": "",
-      "publishedAt": "2026-11-10T05:03:25.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "release"
       ],
       "systems": [],
       "viaGoogle": false,
