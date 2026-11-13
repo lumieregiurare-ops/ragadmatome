@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-11-12T23:30:22.496Z",
+  "updatedAt": "2026-11-13T00:00:18.029Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": []
+  "items": [
+    {
+      "id": "98f0bf121c2d",
+      "title": "「ラグナロクオンライン３」が長く続くMMOを目指して「シーズン制」を採用する理由。放置型の新作「Ragnarok Online: Together」も紹介",
+      "url": "https://www.4gamer.net/games/983/G098371/20261110012/",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-11-12T22:00:00.000Z",
+      "image": "https://www.4gamer.net/games/983/G098371/20261110012/SS/003.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "9d72c86e1ff5",
+      "title": "『ラグナロクオンライン』禁書「特異点 アルデバラン時計塔」が11月17日実装！ 24周年特設サイトも公開",
+      "url": "https://www.appbank.net/2026/11/10/game/3159962.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-10T04:22:13.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261110_115233_749_01.webp",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "9b8e1ca2db2a",
+      "title": "「ラグナロクオンライン」はまもなく正式サービス24周年！アイテムデザインコンテスト2026の受賞作品も発表",
+      "url": "https://www.gamer.ne.jp/news/202611100019/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-10T03:57:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "0e7caf2d6a68",
+      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:09:34.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    }
+  ]
 }
