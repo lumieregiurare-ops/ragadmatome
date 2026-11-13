@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:30:16.650Z",
+  "updatedAt": "2026-11-13T04:00:19.113Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -67,23 +67,6 @@
       "scope": "series",
       "categories": [
         "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9b8e1ca2db2a",
-      "title": "「ラグナロクオンライン」はまもなく正式サービス24周年！アイテムデザインコンテスト2026の受賞作品も発表",
-      "url": "https://www.gamer.ne.jp/news/202611100019/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-10T03:57:00.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "release"
       ],
       "systems": [],
       "viaGoogle": false,
