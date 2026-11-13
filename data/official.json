@@ -49,16 +49,6 @@
     }
   },
   {
-    "id": "2",
-    "title": "『ラグナロク：アドベンチャーズ』事前登録受付中！",
-    "url": "https://ragnarokadv.gungho.jp/news/2",
-    "publishedAt": "2026-08-13T03:00:00.000Z",
-    "category": "お知らせ",
-    "image": "https://ragnarokadv.gungho.jp/system/files/2026-07/ROIA-27_%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E9%96%8B%E5%A7%8B%E5%91%8A%E7%9F%A5%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%A1%88%E5%86%85%E3%83%90%E3%83%8A%E3%83%BC.jpg",
-    "excerpt": "本日より、『ラグナロク：アドベンチャーズ』の事前登録を各ストアにて開始いたします。 『ラグナロク：アドベンチャーズ』の事前登録特典についての詳細は、事前登録特設ページまたは『ラグナロク：アドベンチャーズ』公式Xアカウントをご確認ください。 『ラグナロク：アドベンチャーズ』事前登録特設ページ https://ragnarokadv.gungho.jp/pre…",
-    "period": null
-  },
-  {
     "id": "1",
     "title": "事前登録開始記念！フォロー＆リポストキャンペーン 第1弾",
     "url": "https://ragnarokadv.gungho.jp/news/1",
@@ -70,5 +60,15 @@
       "start": "2026-08-13T06:00:00.000Z",
       "end": "2026-08-25T14:59:00.000Z"
     }
+  },
+  {
+    "id": "2",
+    "title": "『ラグナロク：アドベンチャーズ』事前登録受付中！",
+    "url": "https://ragnarokadv.gungho.jp/news/2",
+    "publishedAt": "2026-08-13T03:00:00.000Z",
+    "category": "お知らせ",
+    "image": "https://ragnarokadv.gungho.jp/system/files/2026-07/ROIA-27_%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E9%96%8B%E5%A7%8B%E5%91%8A%E7%9F%A5%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%A1%88%E5%86%85%E3%83%90%E3%83%8A%E3%83%BC.jpg",
+    "excerpt": "本日より、『ラグナロク：アドベンチャーズ』の事前登録を各ストアにて開始いたします。 『ラグナロク：アドベンチャーズ』の事前登録特典についての詳細は、事前登録特設ページまたは『ラグナロク：アドベンチャーズ』公式Xアカウントをご確認ください。 『ラグナロク：アドベンチャーズ』事前登録特設ページ https://ragnarokadv.gungho.jp/pre…",
+    "period": null
   }
 ]
