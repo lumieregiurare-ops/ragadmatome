@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:00:20.015Z",
+  "updatedAt": "2026-11-13T15:30:21.911Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,7 +18,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0537e6fa822b",
@@ -29,23 +29,6 @@
       "summary": "",
       "publishedAt": "2026-11-13T12:56:23.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/19147/rectangle/65782.jpg?t=1794574588",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "3886dd1ef609",
-      "title": "『ラグナロク：ニューワールド』のゲーム紹介【最新情報まとめ】",
-      "url": "https://gamewith.jp/gamedb/19147",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:34:54.000Z",
-      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/d187538f321bee196f58bee5feef675b.jpg",
       "scope": "series",
       "categories": [
         "guide"
