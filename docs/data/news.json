@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:30:18.177Z",
+  "updatedAt": "2026-11-13T12:00:20.534Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -53,6 +53,24 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "67e731b07950",
+      "title": "【ラグナロク：ニューワールド】配信日と事前登録情報｜最新情報｜ラグニュー",
+      "url": "https://appmedia.jp/newgame/80560939",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:42:52.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/main_result-43.webp",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "71218f028f59",
@@ -137,7 +155,24 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "42e8faf04e80",
+      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52050.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-12T23:14:41.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
     },
     {
       "id": "98f0bf121c2d",
@@ -157,13 +192,13 @@
       "isNew": false
     },
     {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
+      "id": "f7f64d96cc35",
+      "title": "＜画像17 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52056.html",
       "host": "walkerplus.com",
       "source": "ウォーカープラス",
       "summary": "",
-      "publishedAt": "2026-11-11T02:30:31.000Z",
+      "publishedAt": "2026-11-11T13:59:07.000Z",
       "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
       "scope": "series",
       "categories": [
@@ -171,7 +206,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     }
   ]
 }
