@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-13T08:30:16.924Z",
+  "updatedAt": "2026-11-13T09:00:25.996Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "71218f028f59",
+      "title": "MMORPG「ラグナロク：ニューワールド」日本国内でのサービス提供が決定！オープンワールドで描かれる新体験が幕を開ける",
+      "url": "https://www.gamer.ne.jp/news/202611130048/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:39:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "640c5caabad6",
       "title": "「ラグナロク：ニューワールド」，2027年上半期に日本国内でサービス開始。シリーズ初のシームレスなオープンワールドを採用したMMORPG",
