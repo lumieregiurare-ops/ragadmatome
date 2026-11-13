@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:30:23.431Z",
+  "updatedAt": "2026-11-13T11:00:18.755Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,7 +18,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "20c33172d544",
@@ -35,7 +35,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5146ee2f3fd7",
@@ -52,7 +52,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "71218f028f59",
@@ -123,23 +123,6 @@
       "isNew": false
     },
     {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-12T23:14:41.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "98f0bf121c2d",
       "title": "「ラグナロクオンライン３」が長く続くMMOを目指して「シーズン制」を採用する理由。放置型の新作「Ragnarok Online: Together」も紹介",
       "url": "https://www.4gamer.net/games/983/G098371/20261110012/",
@@ -157,13 +140,13 @@
       "isNew": false
     },
     {
-      "id": "f7f64d96cc35",
-      "title": "＜画像17 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52056.html",
+      "id": "42e8faf04e80",
+      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52050.html",
       "host": "walkerplus.com",
       "source": "ウォーカープラス",
       "summary": "",
-      "publishedAt": "2026-11-11T13:59:07.000Z",
+      "publishedAt": "2026-11-11T02:30:31.000Z",
       "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
       "scope": "series",
       "categories": [
