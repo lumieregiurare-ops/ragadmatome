@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:30:17.116Z",
+  "updatedAt": "2026-11-13T22:00:20.876Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -142,23 +142,6 @@
       "isNew": false
     },
     {
-      "id": "00c373dc407f",
-      "title": "『ラグナロクオンライン』シリーズ初のオープンワールドMMORPG『ラグナロク：ニューワールド』2027年上半期に日本国",
-      "url": "https://news.nicovideo.jp/watch/nw19988766?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T07:09:50.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "c18254588069",
       "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期に日本国内でのサービス提供が決定",
       "url": "https://news.denfaminicogamer.jp/news/2611132f",
@@ -241,7 +224,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "98f0bf121c2d",
