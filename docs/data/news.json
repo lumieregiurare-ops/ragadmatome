@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-11-13T10:00:18.919Z",
+  "updatedAt": "2026-11-13T10:30:23.431Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "43f802de04ba",
+      "title": "プレスリリース：MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！（PR TIMES）",
+      "url": "https://mainichi.jp/articles/20261113/pr1/00m/020/362000c",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:52:58.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "20c33172d544",
+      "title": "『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG",
+      "url": "https://www.famitsu.com/article/202611/93966",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:30:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93966/thumbnail_FlOv.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "5146ee2f3fd7",
+      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
+      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
+      "host": "gamebusiness.jp",
+      "source": "GameBusiness.jp",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:23:24.000Z",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "71218f028f59",
       "title": "MMORPG「ラグナロク：ニューワールド」日本国内でのサービス提供が決定！オープンワールドで描かれる新体験が幕を開ける",
@@ -86,7 +137,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "98f0bf121c2d",
@@ -117,23 +168,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "0e7caf2d6a68",
-      "title": "【ラグナロクオンライン】まもなく正式サービス24周年！アイテムデザインコンテスト2026結果発表！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002199.000025063.html",
-      "host": "prtimes.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-10T10:21:18.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2199/25063-2199-93b385e3a3b6fbb08506b52243ae20db-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "release"
       ],
       "systems": [],
       "viaGoogle": false,
