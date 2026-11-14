@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-14T07:30:15.161Z",
+  "updatedAt": "2026-11-14T08:00:23.050Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "d0c839c92fa3",
+      "title": "ラグナロク：ニューワールドは2027年上半期に国内サービス開始 スマホとPCで基本無料、RO3・ラグアドとの違い",
+      "url": "https://mediadogs.jp/2026/11/14/ragnarok-new-world-japan-2027/",
+      "host": "mediadogs.jp",
+      "source": "mediadogs.jp",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:51:44.000Z",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/ragnarok-new-world-japan-2027.webp",
+      "scope": "ragad",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "4a99fece88ce",
       "title": "『ラグナロク：ニューワールド』発表！ シリーズ初のオープンワールド採用",
