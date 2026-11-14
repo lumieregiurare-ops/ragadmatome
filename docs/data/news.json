@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:30:16.854Z",
+  "updatedAt": "2026-11-14T06:00:15.289Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -255,23 +255,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "28009b6025bd",
-      "title": "【ラグナロクX】忍者の特徴やスキル【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/583479",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T05:58:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583479.png?date=1792572615",
-      "scope": "series",
-      "categories": [
-        "guide"
       ],
       "systems": [],
       "viaGoogle": false,
