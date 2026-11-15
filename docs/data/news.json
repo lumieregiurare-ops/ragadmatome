@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T08:00:17.986Z",
+  "updatedAt": "2026-11-15T08:30:18.888Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -105,6 +105,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "49a263fc43b9",
+      "title": "ガンホー、新作MMORPGラグナロク：ニューワールドを国内提供へ",
+      "url": "https://news.dellows.jp/1181899/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:45:51.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/11/1181899_1.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "20c33172d544",
