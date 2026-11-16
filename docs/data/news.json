@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:00:19.315Z",
+  "updatedAt": "2026-11-16T09:30:20.556Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -73,6 +73,23 @@
       "isNew": false
     },
     {
+      "id": "5146ee2f3fd7",
+      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
+      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
+      "host": "gamebusiness.jp",
+      "source": "千葉テレビ放送",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:26:29.000Z",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "4a99fece88ce",
       "title": "『ラグナロク：ニューワールド』発表！ シリーズ初のオープンワールド採用",
       "url": "https://dengekionline.com/article/202611/94024",
@@ -101,6 +118,40 @@
       "scope": "series",
       "categories": [
         "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "6ef6ea2cdd1f",
+      "title": "MMORPG『ラグナロク：ニューワールド』が2027年上半期に日本でサービス提供へ！ シリーズ初のオープンワールド",
+      "url": "https://www.appbank.net/2026/11/13/game/3165361.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:42:24.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261113_160105_417_01.webp",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "20c33172d544",
+      "title": "『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG",
+      "url": "https://www.famitsu.com/article/202611/93966",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-13T13:23:04.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93966/thumbnail_FlOv.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "release"
       ],
       "systems": [],
       "viaGoogle": false,
@@ -136,40 +187,6 @@
       "scope": "series",
       "categories": [
         "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "20c33172d544",
-      "title": "『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG",
-      "url": "https://www.famitsu.com/article/202611/93966",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93966/thumbnail_FlOv.jpg?x=1280",
-      "scope": "series",
-      "categories": [
-        "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "5146ee2f3fd7",
-      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
-      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
-      "host": "gamebusiness.jp",
-      "source": "GameBusiness.jp",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:23:24.000Z",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
