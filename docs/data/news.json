@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:30:21.152Z",
+  "updatedAt": "2026-11-16T21:00:21.482Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -36,7 +36,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5c1dd48ec98",
@@ -53,7 +53,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0c839c92fa3",
@@ -67,23 +67,6 @@
       "scope": "ragad",
       "categories": [
         "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "5146ee2f3fd7",
-      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
-      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
-      "host": "gamebusiness.jp",
-      "source": "千葉テレビ放送",
-      "summary": "",
-      "publishedAt": "2026-11-14T06:26:29.000Z",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
