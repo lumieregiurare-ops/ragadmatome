@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:00:20.602Z",
+  "updatedAt": "2026-11-16T20:30:21.152Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -20,6 +20,40 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:17:32.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "f5c1dd48ec98",
+      "title": "【復帰者】【B鯖】オークの記憶を堪能する！ 【 #黒狼ななせ 】【RO】【ラグナロクオンライン】",
+      "url": "https://t.co/GznOuKM2V0",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:10:23.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "d0c839c92fa3",
@@ -64,23 +98,6 @@
       "summary": "",
       "publishedAt": "2026-11-14T02:39:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/94024/ogp_AsNl.jpg?x=1280",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ce5645dec31d",
-      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
-      "host": "prtimes.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T20:15:47.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
         "news"
