@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:00:17.067Z",
+  "updatedAt": "2026-11-16T08:30:18.088Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -81,6 +81,23 @@
       "summary": "",
       "publishedAt": "2026-11-14T02:39:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/94024/ogp_AsNl.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ce5645dec31d",
+      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T20:15:47.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
         "news"
@@ -188,23 +205,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ce5645dec31d",
-      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
-      "host": "prtimes.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:03:34.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "guide"
       ],
       "systems": [],
       "viaGoogle": false,
