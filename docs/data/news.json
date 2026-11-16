@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:00:20.115Z",
+  "updatedAt": "2026-11-16T23:30:18.287Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -19,7 +19,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ad8f0aba5b78",
@@ -36,7 +36,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5c1dd48ec98",
@@ -53,7 +53,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0c839c92fa3",
@@ -87,7 +87,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4a99fece88ce",
@@ -104,7 +104,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     }
   ]
 }
