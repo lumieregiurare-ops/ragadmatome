@@ -152,6 +152,21 @@
   "systems": []
  },
  {
+  "id": "ce5645dec31d",
+  "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
+  "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
+  "host": "prtimes.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-13T08:03:34.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "scope": "series",
+  "categories": [
+   "guide"
+  ],
+  "systems": []
+ },
+ {
   "id": "640c5caabad6",
   "title": "「ラグナロク：ニューワールド」，2027年上半期に日本国内でサービス開始。シリーズ初のシームレスなオープンワールドを採用したMMORPG",
   "url": "https://www.4gamer.net/games/058/G105823/20261113025/",
@@ -190,21 +205,6 @@
   "summary": "",
   "publishedAt": "2026-11-13T07:07:00.000Z",
   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/sub1-31.jpg",
-  "scope": "series",
-  "categories": [
-   "news"
-  ],
-  "systems": []
- },
- {
-  "id": "ce5645dec31d",
-  "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
-  "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
-  "host": "prtimes.jp",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-11-13T06:34:45.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "scope": "series",
   "categories": [
    "news"
