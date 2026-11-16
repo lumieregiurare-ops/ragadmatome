@@ -1,6 +1,179 @@
 {
-  "updatedAt": "2026-11-16T12:00:23.025Z",
+  "updatedAt": "2026-11-16T12:30:16.471Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": []
+  "items": [
+    {
+      "id": "ddf73f7af934",
+      "title": "『ラグナロクオンライン3』シーズン2・3の内容が初公開。タイで開催された“Ragnarok Festa 2026”の試遊ブースは終日行列の賑わい",
+      "url": "https://www.famitsu.com/article/202611/94137",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-16T07:22:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94137/thumbnail_WalV.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:17:32.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "f5c1dd48ec98",
+      "title": "【復帰者】【B鯖】オークの記憶を堪能する！ 【 #黒狼ななせ 】【RO】【ラグナロクオンライン】",
+      "url": "https://t.co/GznOuKM2V0",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:10:23.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "d0c839c92fa3",
+      "title": "ラグナロク：ニューワールドは2027年上半期に国内サービス開始 スマホとPCで基本無料、RO3・ラグアドとの違い",
+      "url": "https://mediadogs.jp/2026/11/14/ragnarok-new-world-japan-2027/",
+      "host": "mediadogs.jp",
+      "source": "mediadogs.jp",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:51:44.000Z",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/ragnarok-new-world-japan-2027.webp",
+      "scope": "ragad",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "5146ee2f3fd7",
+      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
+      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
+      "host": "gamebusiness.jp",
+      "source": "千葉テレビ放送",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:26:29.000Z",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "4a99fece88ce",
+      "title": "『ラグナロク：ニューワールド』発表！ シリーズ初のオープンワールド採用",
+      "url": "https://dengekionline.com/article/202611/94024",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-14T02:39:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94024/ogp_AsNl.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ce5645dec31d",
+      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T20:15:47.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "6ef6ea2cdd1f",
+      "title": "MMORPG『ラグナロク：ニューワールド』が2027年上半期に日本でサービス提供へ！ シリーズ初のオープンワールド",
+      "url": "https://www.appbank.net/2026/11/13/game/3165361.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:42:24.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261113_160105_417_01.webp",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "a5afd5f3c22d",
+      "title": "『ラグナロク：ニューワールド』日本国内サービス開始時期が2027年上半期に決定！",
+      "url": "https://gamewith.jp/gamedb/19147/articles/65782",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T12:56:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/19147/rectangle/65782.jpg?t=1794574939",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "3886dd1ef609",
+      "title": "『ラグナロク：ニューワールド』のゲーム紹介【最新情報まとめ】",
+      "url": "https://gamewith.jp/gamedb/19147",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T12:34:54.000Z",
+      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/d187538f321bee196f58bee5feef675b.jpg",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    }
+  ]
 }
