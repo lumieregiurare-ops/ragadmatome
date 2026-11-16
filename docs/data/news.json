@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T12:30:16.471Z",
+  "updatedAt": "2026-11-16T13:00:20.540Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -141,39 +141,21 @@
       "isNew": false
     },
     {
-      "id": "a5afd5f3c22d",
-      "title": "『ラグナロク：ニューワールド』日本国内サービス開始時期が2027年上半期に決定！",
-      "url": "https://gamewith.jp/gamedb/19147/articles/65782",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "20c33172d544",
+      "title": "『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG",
+      "url": "https://www.famitsu.com/article/202611/93966",
+      "host": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
-      "publishedAt": "2026-11-13T12:56:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/19147/rectangle/65782.jpg?t=1794574939",
+      "publishedAt": "2026-11-13T13:23:04.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93966/thumbnail_FlOv.jpg?x=1280",
       "scope": "series",
       "categories": [
-        "guide",
         "release"
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "3886dd1ef609",
-      "title": "『ラグナロク：ニューワールド』のゲーム紹介【最新情報まとめ】",
-      "url": "https://gamewith.jp/gamedb/19147",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:34:54.000Z",
-      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/d187538f321bee196f58bee5feef675b.jpg",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     }
   ]
 }
