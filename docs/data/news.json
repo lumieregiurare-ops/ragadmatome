@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:00:20.540Z",
+  "updatedAt": "2026-11-16T13:30:20.894Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -139,23 +139,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "20c33172d544",
-      "title": "『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG",
-      "url": "https://www.famitsu.com/article/202611/93966",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-13T13:23:04.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93966/thumbnail_FlOv.jpg?x=1280",
-      "scope": "series",
-      "categories": [
-        "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     }
   ]
 }
