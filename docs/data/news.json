@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:30:18.088Z",
+  "updatedAt": "2026-11-16T09:00:19.315Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -167,41 +167,6 @@
       "summary": "",
       "publishedAt": "2026-11-13T09:23:24.000Z",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "67e731b07950",
-      "title": "【ラグナロク：ニューワールド】配信日と事前登録情報｜最新情報｜ラグニュー",
-      "url": "https://appmedia.jp/newgame/80560939",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:42:52.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/main_result-43.webp",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "71218f028f59",
-      "title": "MMORPG「ラグナロク：ニューワールド」日本国内でのサービス提供が決定！オープンワールドで描かれる新体験が幕を開ける",
-      "url": "https://www.gamer.ne.jp/news/202611130048/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:39:00.000Z",
-      "image": "",
       "scope": "series",
       "categories": [
         "news"
