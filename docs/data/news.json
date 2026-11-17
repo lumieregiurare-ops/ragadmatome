@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-17T07:30:18.191Z",
+  "updatedAt": "2026-11-17T08:00:19.284Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "a1d06aad5ea4",
+      "title": "「ラグナロクオンライン」幻想叢書の禁書「特異点 アルデバラン時計塔」が実装！「ROクリエイター名鑑2027」参加クリエイターの募集も開始",
+      "url": "https://www.gamer.ne.jp/news/202611170032/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-17T07:40:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "b054982d29f0",
       "title": "『ラグナロクオンライン』禁書の新シナリオ「特異点 アルデバラン時計塔」が11月17日実装！ ROクリエイター名鑑2027の募集も開始",
@@ -42,9 +59,9 @@
       "title": "【ラグナロクオンライン】幻想叢書の禁書「特異点 アルデバラン時計塔」本日実装！",
       "url": "https://prtimes.jp/main/html/rd/p/000002201.000025063.html",
       "host": "prtimes.jp",
-      "source": "Excite エキサイト",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-11-17T04:45:00.000Z",
+      "publishedAt": "2026-11-17T02:10:27.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2201/25063-2201-8d546479cf119e83cf293bd31f5c73fd-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
