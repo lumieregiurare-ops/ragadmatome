@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-17T02:00:17.983Z",
+  "updatedAt": "2026-11-17T02:30:15.861Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "bdba1f345b49",
+      "title": "【ラグナロクオンライン】幻想叢書の禁書「特異点 アルデバラン時計塔」本日実装！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002201.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-17T02:10:27.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2201/25063-2201-8d546479cf119e83cf293bd31f5c73fd-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "7a628f0c1522",
       "title": "ガンホー、Gravityの「Ragnarok」関連タイトルが世界各地で展開 韓国・東南アジア・欧州などに配信拡大 国内でも2タイトルの配信を予定",
@@ -18,7 +35,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ddf73f7af934",
@@ -104,7 +121,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4a99fece88ce",
