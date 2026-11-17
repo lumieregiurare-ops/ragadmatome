@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-17T01:30:26.682Z",
+  "updatedAt": "2026-11-17T02:00:17.983Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "7a628f0c1522",
+      "title": "ガンホー、Gravityの「Ragnarok」関連タイトルが世界各地で展開 韓国・東南アジア・欧州などに配信拡大 国内でも2タイトルの配信を予定",
+      "url": "https://gamebiz.jp/news/435607",
+      "host": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
+      "summary": "",
+      "publishedAt": "2026-11-17T01:07:00.000Z",
+      "image": "https://i3.gamebiz.jp/media/bd308caf-3218-471d-8974-350b2701410a.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "ddf73f7af934",
       "title": "『ラグナロクオンライン3』シーズン2・3の内容が初公開。タイで開催された“Ragnarok Festa 2026”の試遊ブースは終日行列の賑わい",
@@ -36,7 +53,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5c1dd48ec98",
@@ -53,7 +70,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0c839c92fa3",
@@ -71,6 +88,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "5146ee2f3fd7",
+      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
+      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
+      "host": "gamebusiness.jp",
+      "source": "千葉テレビ放送",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:26:29.000Z",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "4a99fece88ce",
