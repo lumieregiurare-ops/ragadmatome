@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:30:15.861Z",
+  "updatedAt": "2026-11-17T03:00:18.603Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,7 +18,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a628f0c1522",
@@ -115,23 +115,6 @@
       "summary": "",
       "publishedAt": "2026-11-14T06:26:29.000Z",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "4a99fece88ce",
-      "title": "『ラグナロク：ニューワールド』発表！ シリーズ初のオープンワールド採用",
-      "url": "https://dengekionline.com/article/202611/94024",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-14T02:39:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94024/ogp_AsNl.jpg?x=1280",
       "scope": "series",
       "categories": [
         "news"
