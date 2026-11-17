@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:00:19.284Z",
+  "updatedAt": "2026-11-17T08:30:17.686Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,7 +18,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b054982d29f0",
@@ -115,23 +115,6 @@
       "summary": "",
       "publishedAt": "2026-11-15T09:17:32.000Z",
       "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "f5c1dd48ec98",
-      "title": "【復帰者】【B鯖】オークの記憶を堪能する！ 【 #黒狼ななせ 】【RO】【ラグナロクオンライン】",
-      "url": "https://t.co/GznOuKM2V0",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:10:23.000Z",
-      "image": "",
       "scope": "series",
       "categories": [
         "news"
