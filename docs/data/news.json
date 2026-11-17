@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T01:00:21.081Z",
+  "updatedAt": "2026-11-17T01:30:26.682Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -22,6 +22,40 @@
       "isNew": false
     },
     {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:17:32.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "f5c1dd48ec98",
+      "title": "【復帰者】【B鯖】オークの記憶を堪能する！ 【 #黒狼ななせ 】【RO】【ラグナロクオンライン】",
+      "url": "https://t.co/GznOuKM2V0",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:10:23.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "d0c839c92fa3",
       "title": "ラグナロク：ニューワールドは2027年上半期に国内サービス開始 スマホとPCで基本無料、RO3・ラグアドとの違い",
       "url": "https://mediadogs.jp/2026/11/14/ragnarok-new-world-japan-2027/",
@@ -33,23 +67,6 @@
       "scope": "ragad",
       "categories": [
         "release"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "5146ee2f3fd7",
-      "title": "『パズドラ』堅調、海外『ラグナロク』新作も寄与―ガンホーが大幅増収増益、営業利益58.8％増",
-      "url": "https://www.gamebusiness.jp/article/2026/11/13/28670.html",
-      "host": "gamebusiness.jp",
-      "source": "千葉テレビ放送",
-      "summary": "",
-      "publishedAt": "2026-11-14T06:26:29.000Z",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203952.png",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
