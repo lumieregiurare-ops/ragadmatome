@@ -15,21 +15,6 @@
   "systems": []
  },
  {
-  "id": "d85ce07909b3",
-  "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
-  "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
-  "host": "prtimes.jp",
-  "source": "ASCII.jp",
-  "summary": "",
-  "publishedAt": "2026-11-18T07:20:39.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-  "scope": "series",
-  "categories": [
-   "news"
-  ],
-  "systems": []
- },
- {
   "id": "613f15a90534",
   "title": "『ラグナロクX』2周年記念イベント「星降る夜のワンダーランド」開催！",
   "url": "https://gamewith.jp/gamedb/11710/articles/65942",
@@ -42,6 +27,21 @@
   "categories": [
    "guide",
    "campaign"
+  ],
+  "systems": []
+ },
+ {
+  "id": "d85ce07909b3",
+  "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
+  "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
+  "host": "prtimes.jp",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-18T02:08:15.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "scope": "series",
+  "categories": [
+   "news"
   ],
   "systems": []
  }
