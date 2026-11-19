@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:00:18.754Z",
+  "updatedAt": "2026-11-19T11:30:19.156Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -134,24 +134,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ddf73f7af934",
-      "title": "『ラグナロクオンライン3』シーズン2・3の内容が初公開。タイで開催された“Ragnarok Festa 2026”の試遊ブースは終日行列の賑わい",
-      "url": "https://www.famitsu.com/article/202611/94137",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-16T11:03:54.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94137/thumbnail_WalV.jpg?x=1280",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "event"
       ],
       "systems": [],
       "viaGoogle": false,
