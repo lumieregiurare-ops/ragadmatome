@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T12:00:16.575Z",
+  "updatedAt": "2026-11-19T12:30:29.409Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -53,6 +53,24 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "613f15a90534",
+      "title": "『ラグナロクX』2周年記念イベント「星降る夜のワンダーランド」開催！",
+      "url": "https://gamewith.jp/gamedb/11710/articles/65942",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:26:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/11710/rectangle/65942.png?t=1794979621",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "d85ce07909b3",
@@ -137,7 +155,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a628f0c1522",
