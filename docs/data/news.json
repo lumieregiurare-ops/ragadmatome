@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:30:18.889Z",
+  "updatedAt": "2026-11-20T04:00:17.074Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -19,6 +19,24 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "ddf73f7af934",
+      "title": "『ラグナロクオンライン3』シーズン2・3の内容が初公開。タイで開催された“Ragnarok Festa 2026”の試遊ブースは終日行列の賑わい",
+      "url": "https://www.famitsu.com/article/202611/94137",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-19T02:50:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94137/thumbnail_WalV.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "ad8f0aba5b78",
@@ -156,6 +174,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "bdba1f345b49",
+      "title": "【ラグナロクオンライン】幻想叢書の禁書「特異点 アルデバラン時計塔」本日実装！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002201.000025063.html",
+      "host": "prtimes.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:45:28.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2201/25063-2201-8d546479cf119e83cf293bd31f5c73fd-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
