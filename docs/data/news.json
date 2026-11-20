@@ -1,6 +1,179 @@
 {
-  "updatedAt": "2026-11-20T20:00:27.876Z",
+  "updatedAt": "2026-11-20T20:30:20.467Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": []
+  "items": [
+    {
+      "id": "ce5645dec31d",
+      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
+      "host": "prtimes.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-20T07:21:20.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "8bb91323d957",
+      "title": "『RO』一大イベント「RAGNAROK Festa 2026」タイ現地レポ。街づくり新作も!?",
+      "url": "http://news.dengeki.com/article/202611/94457",
+      "host": "news.dengeki.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:30:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94457/ogp_Rlgh.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "20c33172d544",
+      "title": "『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG",
+      "url": "https://www.famitsu.com/article/202611/93966",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-19T02:50:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93966/thumbnail_FlOv.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "release"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ddf73f7af934",
+      "title": "『ラグナロクオンライン3』シーズン2・3の内容が初公開。タイで開催された“Ragnarok Festa 2026”の試遊ブースは終日行列の賑わい",
+      "url": "https://www.famitsu.com/article/202611/94137",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-19T02:50:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94137/thumbnail_WalV.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ad8f0aba5b78",
+      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
+      "url": "https://www.walkerplus.com/article/14387/image52054.html",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-18T23:36:51.000Z",
+      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "dd52bafc94c3",
+      "title": "ラグナロクオンライン Chapter1：世界樹の詩 ～序曲～の実装決定へ",
+      "url": "https://news.dellows.jp/704462/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-18T23:32:28.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/704462_1.jpg",
+      "scope": "series",
+      "categories": [
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "cc835ac91bce",
+      "title": "「ラグナロクX」2ndアニバーサリーイベント「星降る夜のワンダーランド」が開催！ボス討伐イベント「夢園の邂逅」で限定報酬を手に入れよう",
+      "url": "https://www.gamer.ne.jp/news/202611180031/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-18T07:12:10.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "613f15a90534",
+      "title": "『ラグナロクX』2周年記念イベント「星降る夜のワンダーランド」開催！",
+      "url": "https://gamewith.jp/gamedb/11710/articles/65942",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:26:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/11710/rectangle/65942.png?t=1794979621",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "1fd5ca4bd75b",
+      "title": "【ラグナロクX】感謝の気持ちを込めて、2ndアニバーサリーイベント「星降る夜のワンダーランド」を開催中！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002203.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-18T02:28:28.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2203/25063-2203-be98d2e32ad98776f1bee5e0999978cb-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "d85ce07909b3",
+      "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-18T02:08:15.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    }
+  ]
 }
