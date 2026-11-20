@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T12:30:18.784Z",
+  "updatedAt": "2026-11-20T13:00:22.926Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -19,23 +19,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "21ff26b59f65",
-      "title": "＜画像1 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SYmIyajNrRDRGOU1OYm81aW5ia2lhTnJXdGFJTm82Yi1kYTU2RzVUVGM0T2l3M0FEbVhEdGIxQlpaSW5lNk9ZSHh0V1hQWWFsY2tHckpoc3FMNzhuSHlCOXk4TXdaQ28?oc=5",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-19T11:27:30.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": true,
-      "isNew": true
     },
     {
       "id": "8bb91323d957",
@@ -141,23 +124,6 @@
       "isNew": false
     },
     {
-      "id": "d415c8db5be0",
-      "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52042.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-18T13:03:15.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "cc835ac91bce",
       "title": "「ラグナロクX」2ndアニバーサリーイベント「星降る夜のワンダーランド」が開催！ボス討伐イベント「夢園の邂逅」で限定報酬を手に入れよう",
       "url": "https://www.gamer.ne.jp/news/202611180031/",
@@ -208,23 +174,6 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "f7f64d96cc35",
-      "title": "＜画像17 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52056.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-17T18:41:38.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
     }
   ]
 }
