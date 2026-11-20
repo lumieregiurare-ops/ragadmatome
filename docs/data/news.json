@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-20T09:30:19.469Z",
+  "updatedAt": "2026-11-20T09:57:06.875Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "ce5645dec31d",
+      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
+      "host": "prtimes.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-20T07:21:20.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "8bb91323d957",
       "title": "『RO』一大イベント「RAGNAROK Festa 2026」タイ現地レポ。街づくり新作も!?",
@@ -135,24 +152,6 @@
       "scope": "series",
       "categories": [
         "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "613f15a90534",
-      "title": "『ラグナロクX』2周年記念イベント「星降る夜のワンダーランド」開催！",
-      "url": "https://gamewith.jp/gamedb/11710/articles/65942",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:26:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/11710/rectangle/65942.png?t=1794979621",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "campaign"
       ],
       "systems": [],
       "viaGoogle": false,
