@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:30:16.766Z",
+  "updatedAt": "2026-11-20T02:00:16.517Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -87,6 +87,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "cc835ac91bce",
+      "title": "「ラグナロクX」2ndアニバーサリーイベント「星降る夜のワンダーランド」が開催！ボス討伐イベント「夢園の邂逅」で限定報酬を手に入れよう",
+      "url": "https://www.gamer.ne.jp/news/202611180031/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-18T07:12:10.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "613f15a90534",
