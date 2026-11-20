@@ -1,20 +1,5 @@
 [
  {
-  "id": "1fd5ca4bd75b",
-  "title": "【ラグナロクX】感謝の気持ちを込めて、2ndアニバーサリーイベント「星降る夜のワンダーランド」を開催中！",
-  "url": "https://prtimes.jp/main/html/rd/p/000002203.000025063.html",
-  "host": "prtimes.jp",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-11-18T14:40:02.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2203/25063-2203-be98d2e32ad98776f1bee5e0999978cb-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-  "scope": "series",
-  "categories": [
-   "event"
-  ],
-  "systems": []
- },
- {
   "id": "d415c8db5be0",
   "title": "＜画像3 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
   "url": "https://www.walkerplus.com/article/14387/image52042.html",
@@ -57,6 +42,21 @@
   "categories": [
    "guide",
    "campaign"
+  ],
+  "systems": []
+ },
+ {
+  "id": "1fd5ca4bd75b",
+  "title": "【ラグナロクX】感謝の気持ちを込めて、2ndアニバーサリーイベント「星降る夜のワンダーランド」を開催中！",
+  "url": "https://prtimes.jp/main/html/rd/p/000002203.000025063.html",
+  "host": "prtimes.jp",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-18T02:28:28.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/25063/2203/25063-2203-be98d2e32ad98776f1bee5e0999978cb-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "scope": "series",
+  "categories": [
+   "event"
   ],
   "systems": []
  },
