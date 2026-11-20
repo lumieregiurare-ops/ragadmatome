@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T09:57:06.875Z",
+  "updatedAt": "2026-11-20T10:30:17.223Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,7 +18,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8bb91323d957",
@@ -124,23 +124,6 @@
       "isNew": false
     },
     {
-      "id": "d85ce07909b3",
-      "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
-      "host": "prtimes.jp",
-      "source": "ASCII.jp",
-      "summary": "",
-      "publishedAt": "2026-11-18T07:20:39.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "cc835ac91bce",
       "title": "「ラグナロクX」2ndアニバーサリーイベント「星降る夜のワンダーランド」が開催！ボス討伐イベント「夢園の邂逅」で限定報酬を手に入れよう",
       "url": "https://www.gamer.ne.jp/news/202611180031/",
@@ -152,6 +135,41 @@
       "scope": "series",
       "categories": [
         "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "613f15a90534",
+      "title": "『ラグナロクX』2周年記念イベント「星降る夜のワンダーランド」開催！",
+      "url": "https://gamewith.jp/gamedb/11710/articles/65942",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:26:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/11710/rectangle/65942.png?t=1794979621",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "d85ce07909b3",
+      "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-18T02:08:15.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
       ],
       "systems": [],
       "viaGoogle": false,
