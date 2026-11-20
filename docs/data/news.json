@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T05:00:17.046Z",
+  "updatedAt": "2026-11-20T05:30:17.305Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -121,7 +121,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "613f15a90534",
@@ -150,23 +150,6 @@
       "summary": "",
       "publishedAt": "2026-11-17T07:40:00.000Z",
       "image": "",
-      "scope": "series",
-      "categories": [
-        "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "b054982d29f0",
-      "title": "『ラグナロクオンライン』禁書の新シナリオ「特異点 アルデバラン時計塔」が11月17日実装！ ROクリエイター名鑑2027の募集も開始",
-      "url": "https://www.appbank.net/2026/11/17/game/3168554.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-11-17T05:22:07.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261117_120616_817_01.webp",
       "scope": "series",
       "categories": [
         "update"
