@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:30:24.679Z",
+  "updatedAt": "2026-11-21T20:55:48.451Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -53,6 +53,24 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "7543ac5c6f62",
+      "title": "【ラグナロクX】アプデ（アップデート）最新情報まとめ【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/481790",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:28:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/481790.png?date=1747727543",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "update"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "20c33172d544",
