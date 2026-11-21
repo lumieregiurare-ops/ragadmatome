@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:30:16.795Z",
+  "updatedAt": "2026-11-21T15:00:18.992Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -135,23 +135,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "1fd5ca4bd75b",
-      "title": "【ラグナロクX】感謝の気持ちを込めて、2ndアニバーサリーイベント「星降る夜のワンダーランド」を開催中！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002203.000025063.html",
-      "host": "prtimes.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-18T14:40:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2203/25063-2203-be98d2e32ad98776f1bee5e0999978cb-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "event"
       ],
       "systems": [],
       "viaGoogle": false,
