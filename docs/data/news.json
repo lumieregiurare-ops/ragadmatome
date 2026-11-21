@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:58:35.869Z",
+  "updatedAt": "2026-11-21T07:30:18.273Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -35,7 +35,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8bb91323d957",
@@ -145,30 +145,13 @@
       "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
       "host": "prtimes.jp",
-      "source": "ASCII.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-18T07:20:39.000Z",
+      "publishedAt": "2026-11-18T11:15:28.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "cc835ac91bce",
-      "title": "「ラグナロクX」2ndアニバーサリーイベント「星降る夜のワンダーランド」が開催！ボス討伐イベント「夢園の邂逅」で限定報酬を手に入れよう",
-      "url": "https://www.gamer.ne.jp/news/202611180031/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-18T07:12:10.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "event"
       ],
       "systems": [],
       "viaGoogle": false,
