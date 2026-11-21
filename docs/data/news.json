@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:30:17.384Z",
+  "updatedAt": "2026-11-21T06:58:35.869Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -19,6 +19,23 @@
       "systems": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "95e0e56c350e",
+      "title": "【ラグナロクX】モンスター経験値一覧【ROX】",
+      "url": "https://gamewith.jp/ragnarokx/475353",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:42:31.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/475353.png?date=1732530536",
+      "scope": "series",
+      "categories": [
+        "guide"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "8bb91323d957",
