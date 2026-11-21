@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:00:18.992Z",
+  "updatedAt": "2026-11-21T15:30:17.929Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -118,23 +118,6 @@
       "scope": "series",
       "categories": [
         "update"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "d85ce07909b3",
-      "title": "【ラグナロクオンライン】「ラグ缶2026 24thAnniversary」2026年11月19日（木）登場！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002202.000025063.html",
-      "host": "prtimes.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-18T15:10:00.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2202/25063-2202-2a13e6e02d12a861eed2bc0de8cefd5b-780x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
