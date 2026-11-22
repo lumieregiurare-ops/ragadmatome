@@ -1,58 +1,6 @@
 {
-  "updatedAt": "2026-11-22T03:30:16.857Z",
+  "updatedAt": "2026-11-22T04:00:25.686Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": [
-    {
-      "id": "ce5645dec31d",
-      "title": "MMORPG『ラグナロク：ニューワールド』2027年上半期、日本国内サービス提供決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002200.000025063.html",
-      "host": "prtimes.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-21T08:36:47.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2200/25063-2200-6bdf5b01150caf07866bb23c1516e30d-1200x675.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "42e8faf04e80",
-      "title": "＜画像11 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52050.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-19T22:49:47.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "95e0e56c350e",
-      "title": "【ラグナロクX】モンスター経験値一覧【ROX】",
-      "url": "https://gamewith.jp/ragnarokx/475353",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T03:42:31.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/475353.png?date=1732530536",
-      "scope": "series",
-      "categories": [
-        "guide"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    }
-  ]
+  "items": []
 }
