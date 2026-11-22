@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:30:18.821Z",
+  "updatedAt": "2026-11-22T00:00:18.836Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -102,40 +102,6 @@
       "categories": [
         "guide",
         "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ad8f0aba5b78",
-      "title": "＜画像15 / 20＞キュートなモンスターも！「ラグナロク」感謝祭に本格コスプレイヤー集結",
-      "url": "https://www.walkerplus.com/article/14387/image52054.html",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-18T23:36:51.000Z",
-      "image": "https://news.walkerplus.com/article/14387/52040_615.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "dd52bafc94c3",
-      "title": "ラグナロクオンライン Chapter1：世界樹の詩 ～序曲～の実装決定へ",
-      "url": "https://news.dellows.jp/704462/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-18T23:32:28.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/704462_1.jpg",
-      "scope": "series",
-      "categories": [
-        "update"
       ],
       "systems": [],
       "viaGoogle": false,
