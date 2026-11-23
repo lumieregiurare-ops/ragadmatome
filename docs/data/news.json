@@ -1,25 +1,6 @@
 {
-  "updatedAt": "2026-11-23T11:00:18.032Z",
+  "updatedAt": "2026-11-23T11:30:17.279Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": [
-    {
-      "id": "d7d6a2ae1403",
-      "title": "ラグナロクオンラインが24周年特設サイトを公開 新シナリオ実装や事前イベントも",
-      "url": "https://news.dellows.jp/1109904/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-22T19:01:47.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/11/1109904_1.jpg",
-      "scope": "series",
-      "categories": [
-        "update",
-        "event"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    }
-  ]
+  "items": []
 }
