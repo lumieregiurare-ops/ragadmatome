@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-24T03:30:18.173Z",
+  "updatedAt": "2026-11-24T04:00:23.113Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": []
+  "items": [
+    {
+      "id": "45bf27140ca8",
+      "title": "『ラグナロク』はタイでめちゃくちゃ人気があることを知っているか。eスポーツ大会は3つ開催、関連タイトルは20以上。“RAGNAROK FESTA 2026”の熱がすごい",
+      "url": "https://www.famitsu.com/article/202611/94761",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-24T03:45:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94761/thumbnail_YGfz.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    }
+  ]
 }
