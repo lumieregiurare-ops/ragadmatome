@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-24T05:00:17.080Z",
+  "updatedAt": "2026-11-24T05:30:20.103Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "bd1947f76c9f",
+      "title": "【ラグナロクオンライン】「豪華ガチャ 結果を投稿してMVPカードゲットキャンペーン」＆「24周年カウントダウンキャンペーン」開催！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002204.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-24T04:07:34.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2204/25063-2204-a357efd8d543335693023856427a5fc6-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "45bf27140ca8",
       "title": "『ラグナロク』はタイでめちゃくちゃ人気があることを知っているか。eスポーツ大会は3つ開催、関連タイトルは20以上。“RAGNAROK FESTA 2026”の熱がすごい",
