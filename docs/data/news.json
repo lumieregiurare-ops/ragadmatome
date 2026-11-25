@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-25T08:00:19.208Z",
+  "updatedAt": "2026-11-25T08:30:19.465Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "e3fa245912fd",
+      "title": "Gravity、ラグナロクのウェブゲーム・ミニゲーム・UGCプラットフォーム3種を発表",
+      "url": "https://www.gamemeca.com/ja/mv.php?gid",
+      "host": "gamemeca.com",
+      "source": "게임메카",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:23:47.000Z",
+      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "f51c5839ecce",
       "title": "【ラグナロク】ミッドガルドを自由に作って遊べるワールドビルダー『RAGLAND』が開発中。公式素材を利用可能で、ノーコードだから専門知識は不要",
