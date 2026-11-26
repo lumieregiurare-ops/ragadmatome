@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:00:19.467Z",
+  "updatedAt": "2026-11-26T13:30:17.458Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -18,38 +18,21 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "271ad3f12e18",
       "title": "「ラグナロクオンライン」正式サービス24周年を記念したパッケージが発売！5種の新アイテムや職服設定資料、VTuber用モデルなどを収録",
       "url": "https://www.chiba-tv.com/plus/detail/2026112262772",
       "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
+      "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-11-26T11:41:48.000Z",
+      "publishedAt": "2026-11-26T11:38:00.000Z",
       "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1498650373049238707/origin_1.jpg",
       "scope": "series",
       "categories": [
         "release",
         "campaign"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "1f60c87c09b4",
-      "title": "プレスリリース：［ラグナロクオンライン］「24thアニバーサリーパッケージ」本日発売！（PR TIMES）",
-      "url": "https://mainichi.jp/articles/20261126/pr1/00m/020/381000c",
-      "host": "mainichi.jp",
-      "source": "毎日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:53:02.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "systems": [],
       "viaGoogle": false,
