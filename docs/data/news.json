@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-26T07:30:18.859Z",
+  "updatedAt": "2026-11-26T08:00:17.202Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
     {
       "id": "5069404a65e3",
       "title": "【ラグナロクオンライン】「24thアニバーサリーパッケージ」本日発売！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObmhBWmVYTmNTYkhIdXM2TlB1enJZQnpnZEFYWVJ0N3ZYUGJoYzY4YnFxbHhkRnZKZTdTTHkwX0xKQmJPdTRjeXpiRTFwSzUyVm45aHNyYmQ3dlRHZHFVb3hHWGNYR0gtSVE?oc=5",
+      "url": "https://prtimes.jp/main/html/rd/p/000002207.000025063.html",
       "host": "prtimes.jp",
       "source": "PR TIMES",
       "summary": "",
       "publishedAt": "2026-11-26T07:18:11.000Z",
-      "image": "",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2207/25063-2207-bce65a4c2712f07148cbc0cef085226d-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "scope": "series",
       "categories": [
         "news"
       ],
       "systems": [],
-      "viaGoogle": true,
-      "isNew": true
+      "viaGoogle": false,
+      "isNew": false
     },
     {
       "id": "e3fa245912fd",
