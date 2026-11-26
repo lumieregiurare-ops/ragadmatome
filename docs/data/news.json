@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-26T10:30:20.473Z",
+  "updatedAt": "2026-11-26T11:00:21.116Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "1f60c87c09b4",
+      "title": "プレスリリース：［ラグナロクオンライン］「24thアニバーサリーパッケージ」本日発売！（PR TIMES）",
+      "url": "https://mainichi.jp/articles/20261126/pr1/00m/020/381000c",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:53:02.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "4b76698bae75",
       "title": "『ラグナロク』e-Sports世界大会、まさかの3大会同時開催!? 「RAGNAROK Festa 2026」現地レポ",
@@ -18,7 +35,7 @@
       ],
       "systems": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5069404a65e3",
