@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:00:19.402Z",
+  "updatedAt": "2026-11-27T04:30:19.333Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -141,6 +141,24 @@
       "isNew": false
     },
     {
+      "id": "bd1947f76c9f",
+      "title": "【ラグナロクオンライン】「豪華ガチャ 結果を投稿してMVPカードゲットキャンペーン」＆「24周年カウントダウンキャンペーン」開催！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002204.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ASCII.jp",
+      "summary": "",
+      "publishedAt": "2026-11-24T09:56:15.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2204/25063-2204-a357efd8d543335693023856427a5fc6-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "f51c5839ecce",
       "title": "【ラグナロク】ミッドガルドを自由に作って遊べるワールドビルダー『RAGLAND』が開発中。公式素材を利用可能で、ノーコードだから専門知識は不要",
       "url": "https://www.famitsu.com/article/202611/94873",
@@ -152,24 +170,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "bd1947f76c9f",
-      "title": "【ラグナロクオンライン】「豪華ガチャ 結果を投稿してMVPカードゲットキャンペーン」＆「24周年カウントダウンキャンペーン」開催！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002204.000025063.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-24T04:07:34.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2204/25063-2204-a357efd8d543335693023856427a5fc6-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "campaign",
-        "event"
       ],
       "systems": [],
       "viaGoogle": false,
