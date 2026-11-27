@@ -1,6 +1,179 @@
 {
-  "updatedAt": "2026-11-27T10:30:23.799Z",
+  "updatedAt": "2026-11-27T11:00:17.463Z",
   "updateGapMin": 30,
   "topics": [],
-  "items": []
+  "items": [
+    {
+      "id": "c2e084bf24ea",
+      "title": "「ラグナロクオンライン」24周年記念パッケージが11月26日発売！ 新装備5種やVTuber用モデル4体を収録",
+      "url": "https://www.appbank.net/2026/11/26/game/3178738.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:30:22.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163659_112_01.webp",
+      "scope": "series",
+      "categories": [
+        "campaign"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "271ad3f12e18",
+      "title": "「ラグナロクオンライン」正式サービス24周年を記念したパッケージが発売！5種の新アイテムや職服設定資料、VTuber用モデルなどを収録",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112262772",
+      "host": "chiba-tv.com",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:38:00.000Z",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1498650373049238707/origin_1.jpg",
+      "scope": "series",
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "b710c3b72298",
+      "title": "アピリッツ、ガンホーの「ラグナロクオンラインシリーズ公式ポータル」を設計・構築 〜シリーズ各タイトルの情報を一元化し、作品間を行き来する導線を実現",
+      "url": "https://www.shibukei.com/index.php/release/691750/",
+      "host": "shibukei.com",
+      "source": "シブヤ経済新聞",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:59:01.000Z",
+      "image": "https://prtimes.jp/img/72985/384/thumb/d72985-384-a68283d276bc88fee58a-0.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "4b76698bae75",
+      "title": "『ラグナロク』e-Sports世界大会、まさかの3大会同時開催!? 「RAGNAROK Festa 2026」現地レポ",
+      "url": "https://dengekionline.com/article/202611/95198",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:30:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/95198/ogp_AyPF.jpg?x=1280",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "95d7a103113e",
+      "title": "【画像】【ラグナロクオンライン】「24thアニバーサリーパッケージ」本日発売！ 1/20",
+      "url": "https://news.livedoor.com/pr_article/detail/32909886/image/57833235/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:18:11.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/8/7/871fd_1863_5e9a4aa2_929ebc54.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "5a401683494f",
+      "title": "【ラグナロクオンライン】「24thアニバーサリーパッケージ」本日発売！ (2026年11月26日掲載)",
+      "url": "https://news.livedoor.com/pr_topics/detail/32909886/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:18:11.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/8/7/871fd_1863_5e9a4aa2_929ebc54.png",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "5069404a65e3",
+      "title": "【ラグナロクオンライン】「24thアニバーサリーパッケージ」本日発売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002207.000025063.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:18:11.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2207/25063-2207-bce65a4c2712f07148cbc0cef085226d-780x420.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ce93da178493",
+      "title": "アピリッツ、ガンホーの「ラグナロクオンラインシリーズ公式ポータル」を設計・構築 ～シリーズ各タイトルの情報を一元化し、作品間を行き来する導線を実現～",
+      "url": "https://prtimes.jp/main/html/rd/p/000000384.000072985.html",
+      "host": "prtimes.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:00:00.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/72985/384/72985-384-5f5c7eb6b4c45eeb09794806b60bdf1e-2560x1644.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "e3fa245912fd",
+      "title": "Gravity、ラグナロクのウェブゲーム・ミニゲーム・UGCプラットフォーム3種を発表",
+      "url": "https://www.gamemeca.com/ja/mv.php?gid",
+      "host": "gamemeca.com",
+      "source": "게임메카",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:23:47.000Z",
+      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "bd1947f76c9f",
+      "title": "【ラグナロクオンライン】「豪華ガチャ 結果を投稿してMVPカードゲットキャンペーン」＆「24周年カウントダウンキャンペーン」開催！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002204.000025063.html",
+      "host": "prtimes.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-24T14:15:35.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25063/2204/25063-2204-a357efd8d543335693023856427a5fc6-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": false
+    }
+  ]
 }
