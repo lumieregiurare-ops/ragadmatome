@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-11-27T07:30:20.590Z",
+  "updatedAt": "2026-11-27T08:00:18.573Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
+    {
+      "id": "17dfeebc3b46",
+      "title": "コスプレ美女多数！「ラグナロク ファン感謝祭」レポ",
+      "url": "https://www.walkerplus.com/article/6341/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:26:30.000Z",
+      "image": "https://news.walkerplus.com/article/6341/15147_615.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "systems": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "c2e084bf24ea",
       "title": "「ラグナロクオンライン」24周年記念パッケージが11月26日発売！ 新装備5種やVTuber用モデル4体を収録",
