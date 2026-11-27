@@ -52,7 +52,22 @@
   "host": "mainichi.jp",
   "source": "毎日新聞",
   "summary": "",
-  "publishedAt": "2026-11-26T09:53:02.000Z",
+  "publishedAt": "2026-11-26T09:53:16.000Z",
+  "image": "",
+  "scope": "series",
+  "categories": [
+   "news"
+  ],
+  "systems": []
+ },
+ {
+  "id": "87933204c144",
+  "title": "【ラグナロクオンライン】「24thアニバーサリーパッケージ」本日発売！：時事ドットコム",
+  "url": "https://www.jiji.com/jc/article?k",
+  "host": "jiji.com",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-11-26T09:46:00.000Z",
   "image": "",
   "scope": "series",
   "categories": [
