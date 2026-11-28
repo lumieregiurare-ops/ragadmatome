@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T07:00:19.167Z",
+  "updatedAt": "2026-11-28T07:30:15.482Z",
   "updateGapMin": 30,
   "topics": [],
   "items": [
@@ -200,23 +200,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T06:00:00.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/72985/384/72985-384-5f5c7eb6b4c45eeb09794806b60bdf1e-2560x1644.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "systems": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "e3fa245912fd",
-      "title": "Gravity、ラグナロクのウェブゲーム・ミニゲーム・UGCプラットフォーム3種を発表",
-      "url": "https://www.gamemeca.com/ja/mv.php?gid",
-      "host": "gamemeca.com",
-      "source": "게임메카",
-      "summary": "",
-      "publishedAt": "2026-11-25T07:23:47.000Z",
-      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
       "scope": "series",
       "categories": [
         "news"
